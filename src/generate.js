@@ -5,12 +5,8 @@ const fs = require('fs').promises;
 const templates = require('./templates.js');
 
 Promise.all([
-    fs.mkdir("assets/minecraft/models/item", {recursive:true}),
-    fs.mkdir("assets/slimefun/models/item/backpacks", {recursive:true}),
-    fs.mkdir("assets/slimefun/models/item/talismans", {recursive:true}),
-    fs.mkdir("assets/slimefun/models/item/multiblocks", {recursive:true}),
-    fs.mkdir("assets/slimefun/models/item/runes", {recursive:true}),
-    fs.mkdir("assets/slimefun/models/item/gui/flags", {recursive:true})
+    fs.mkdir("assets/minecraft/models/item/", {recursive:true}),
+    fs.mkdir("assets/slimefun/models/item/gui", {recursive:true})
 ]).then(() => fs.readFile("src/models.json", "UTF-8").then(models => {
     let json = JSON.parse(models);
     let yml = `version: ${process.env.GITHUB_RELEASE_VERSION}\n`;
