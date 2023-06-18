@@ -11,6 +11,12 @@
     "template": "GLASS_PANE",
     "data": 4001
   },
+  "_DUMO_UI_SOLAR_NORMAL_DAYTIME": {
+    "id": "gui/solar_normal_daytime",
+    "item": "gray_stained_glass_pane",
+    "template": "GLASS_PANE",
+    "data": 4002
+  },
   "DUMO_CIRCUIT_1": {
     "id": "circuit_1",
     "item": "prismarine_shard",
