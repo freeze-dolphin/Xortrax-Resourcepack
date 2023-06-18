@@ -5,6 +5,12 @@
     "template": "GLASS_PANE",
     "data": 4000
   },
+  "_DUMO_UI_CODE": {
+    "id": "gui/code",
+    "item": "gray_stained_glass_pane",
+    "template": "GLASS_PANE",
+    "data": 4001
+  },
   "DUMO_CIRCUIT_1": {
     "id": "circuit_1",
     "item": "prismarine_shard",
