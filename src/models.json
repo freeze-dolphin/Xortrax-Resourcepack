@@ -17,6 +17,18 @@
     "template": "GLASS_PANE",
     "data": 4002
   },
+  "_DUMO_UI_SOLAR_ADV_DAYTIME": {
+    "id": "gui/solar_adv_daytime",
+    "item": "gray_stained_glass_pane",
+    "template": "GLASS_PANE",
+    "data": 4003
+  },
+  "_DUMO_UI_SOLAR_ADV_NIGHT": {
+    "id": "gui/solar_adv_night",
+    "item": "gray_stained_glass_pane",
+    "template": "GLASS_PANE",
+    "data": 4004
+  },
   "DUMO_CIRCUIT_1": {
     "id": "circuit_1",
     "item": "prismarine_shard",
