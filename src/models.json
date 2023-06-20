@@ -29,6 +29,12 @@
     "template": "GLASS_PANE",
     "data": 4004
   },
+  "_DUMO_UI_SOLAR_ULTIMATE_WORKING": {
+    "id": "gui/solar_ultimate_working",
+    "item": "gray_stained_glass_pane",
+    "template": "GLASS_PANE",
+    "data": 4005
+  },
   "DUMO_CIRCUIT_1": {
     "id": "circuit_1",
     "item": "prismarine_shard",
