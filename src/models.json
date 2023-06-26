@@ -35,6 +35,12 @@
     "template": "GLASS_PANE",
     "data": 4005
   },
+  "_DUMO_UI_THERMAL_CENTRIFUGE_THERMAL_VAL_FULL": {
+    "id": "gui/thermal_centrifuge_thermal_val_full",
+    "item": "gray_stained_glass_pane",
+    "template": "GLASS_PANE",
+    "data": 4006
+  },
   "DUMO_CIRCUIT_1": {
     "id": "circuit_1",
     "item": "prismarine_shard",
