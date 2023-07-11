@@ -41,6 +41,12 @@
     "template": "GLASS_PANE",
     "data": 4006
   },
+  "_DUMO_UI_ASSEMBLY_GEAR": {
+    "id": "gui/asm_gear",
+    "item": "gray_stained_glass_pane",
+    "template": "GLASS_PANE",
+    "data": 4007
+  },
   "DUMO_CIRCUIT_1": {
     "id": "circuit_1",
     "item": "prismarine_shard",
@@ -76,6 +82,12 @@
     "item": "prismarine_shard",
     "template": "ITEM",
     "data": 4005
+  },
+  "BLUEPRINT": {
+    "id": "blueprint",
+    "item": "prismarine_shard",
+    "template": "ITEM",
+    "data": 4006
   }
 }
 
