@@ -88,6 +88,18 @@
     "item": "prismarine_shard",
     "template": "ITEM",
     "data": 4006
+  },
+  "DUMO_CAKE_SLICE": {
+    "id": "cake_slice",
+    "item": "apple",
+    "template": "ITEM",
+    "data": 4000
+  },
+  "DUMO_EXPERIMENT_115": {
+    "id": "experiment_115",
+    "item": "apple",
+    "template": "ITEM",
+    "data": 4001
   }
 }
 
