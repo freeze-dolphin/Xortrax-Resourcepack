@@ -47,6 +47,18 @@
     "template": "GLASS_PANE",
     "data": 4007
   },
+  "_DUMO_UI_ARROW_LEFT": {
+    "id": "gui/arrow_left",
+    "item": "gray_stained_glass_pane",
+    "template": "GLASS_PANE",
+    "data": 4008
+  },
+  "_DUMO_UI_ARROW_RIGHT": {
+    "id": "gui/arrow_right",
+    "item": "gray_stained_glass_pane",
+    "template": "GLASS_PANE",
+    "data": 4009
+  },
   "DUMO_CIRCUIT_1": {
     "id": "circuit_1",
     "item": "prismarine_shard",
