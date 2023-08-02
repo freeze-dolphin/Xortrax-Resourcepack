@@ -1,4 +1,526 @@
 {
+  "ANDROID_MEMORY_CORE": {
+    "id": "technical_components/android_memory_core",
+    "item": "player_head",
+    "template": "FLAT_BLOCK",
+    "data": 4000
+  },
+  "COPPER_WIRE": {
+    "id": "technical_components/copper_wire",
+    "item": "string",
+    "template": "ITEM",
+    "data": 4000
+  },
+  "HARDENED_GLASS": {
+    "id": "technical_components/hardened_glass",
+    "item": "light_gray_stained_glass",
+    "template": "BLOCK",
+    "data": 4000
+  },
+  "PLASTIC_SHEET": {
+    "id": "technical_components/plastic_sheet",
+    "item": "paper",
+    "template": "ITEM",
+    "data": 4000
+  },
+  "REINFORCED_CLOTH": {
+    "id": "technical_components/reinforced_cloth",
+    "item": "paper",
+    "template": "ITEM",
+    "data": 4001
+  },
+  "STEEL_THRUSTER": {
+    "id": "technical_components/steel_thruster",
+    "item": "bucket",
+    "template": "ITEM",
+    "data": 4000
+  },
+  "WITHER_PROOF_GLASS": {
+    "id": "technical_components/wither_proof_glass",
+    "item": "purple_stained_glass",
+    "template": "BLOCK",
+    "data": 4000
+  },
+  "WITHER_PROOF_OBSIDIAN": {
+    "id": "technical_components/wither_proof_obsidian",
+    "item": "obsidian",
+    "template": "BLOCK",
+    "data": 4000
+  },
+
+
+
+  "ZINC_INGOT": {
+    "id": "resources/zinc_ingot",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4000
+  },
+  "SILVER_INGOT": {
+    "id": "resources/silver_ingot",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4001
+  },
+  "ALUMINUM_INGOT": {
+    "id": "resources/aluminum_ingot",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4002
+  },
+  "LEAD_INGOT": {
+    "id": "resources/lead_ingot",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4003
+  },
+  "TIN_INGOT": {
+    "id": "resources/tin_ingot",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4004
+  },
+  "COPPER_INGOT": {
+    "id": "resources/copper_ingot",
+    "item": "brick",
+    "template": "ITEM",
+    "data": 4000
+  },
+  "NICKEL_INGOT": {
+    "id": "resources/nickel_ingot",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4005
+  },
+  "COBALT_INGOT": {
+    "id": "resources/cobalt_ingot",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4006
+  },
+  "REDSTONE_ALLOY": {
+    "id": "resources/redstone_alloy_ingot",
+    "item": "brick",
+    "template": "ITEM",
+    "data": 4001
+  },
+  "FERROSILICON": {
+    "id": "resources/ferrosilicon",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4007
+  },
+  "GILDED_IRON": {
+    "id": "resources/gilded_iron_ingot",
+    "item": "gold_ingot",
+    "template": "ITEM",
+    "data": 4000
+  },
+  "SULFATE": {
+    "id": "resources/sulfate",
+    "item": "glowstone_dust",
+    "template": "ITEM",
+    "data": 4000
+  },
+  "MAGNESIUM_INGOT": {
+    "id": "resources/magnesium_ingot",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4008
+  },
+  "SIFTED_ORE": {
+    "id": "resources/sifted_ore",
+    "item": "gunpowder",
+    "template": "ITEM",
+    "data": 4000
+  },
+  "CLOTH": {
+    "id": "resources/cloth",
+    "item": "paper",
+    "template": "ITEM",
+    "data": 4001
+  },
+  "DAMASCUS_STEEL_INGOT": {
+    "id": "resources/damascus_steel_ingot",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4010
+  },
+  "HARDENED_METAL_INGOT": {
+    "id": "resources/hardened_metal_ingot",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4011
+  },
+  "BRONZE_INGOT": {
+    "id": "resources/bronze_ingot",
+    "item": "brick",
+    "template": "ITEM",
+    "data": 4002
+  },
+  "BRASS_INGOT": {
+    "id": "resources/brass_ingot",
+    "item": "gold_ingot",
+    "template": "ITEM",
+    "data": 4001
+  },
+  "DURALUMIN_INGOT": {
+    "id": "resources/duralumin_ingot",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4012
+  },
+  "BILLON_INGOT": {
+    "id": "resources/billon_ingot",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4013
+  },
+  "ALUMINUM_BRASS_INGOT": {
+    "id": "resources/aluminum_brass_ingot",
+    "item": "gold_ingot",
+    "template": "ITEM",
+    "data": 4002
+  },
+  "BLISTERING_INGOT": {
+    "id": "resources/irradianturanium",
+    "item": "gold_ingot",
+    "template": "ITEM",
+    "data": 4003
+  },
+  "BLISTERING_INGOT_2": {
+    "id": "resources/irradianturanium",
+    "item": "gold_ingot",
+    "template": "ITEM",
+    "data": 4004
+  },
+  "BLISTERING_INGOT_3": {
+    "id": "resources/irradianturanium",
+    "item": "gold_ingot",
+    "template": "ITEM",
+    "data": 4005
+  },
+  "REINFORCED_ALLOY_INGOT": {
+    "id": "resources/reinforced_alloy_ingot",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4014
+  },
+  "CRUSHED_ORE": {
+    "id": "resources/crushed_ore",
+    "item": "gunpowder",
+    "template": "ITEM",
+    "data": 4004
+  },
+  "PULVERIZED_ORE": {
+    "id": "resources/pulverized_ore",
+    "item": "gunpowder",
+    "template": "ITEM",
+    "data": 4005
+  },
+  "PURE_ORE_CLUSTER": {
+    "id": "resources/pure_ore_cluster",
+    "item": "gunpowder",
+    "template": "ITEM",
+    "data": 4006
+  },
+  "STEEL_INGOT": {
+    "id": "resources/steel_ingot",
+    "item": "iron_ingot",
+    "template": "ITEM",
+    "data": 4009
+  },
+  "STEEL_PLATE": {
+    "id": "resources/steel_plate",
+    "item": "paper",
+    "template": "ITEM",
+    "data": 4002
+  },
+  "SILICON": {
+    "id": "resources/silicon",
+    "item": "firework_star",
+    "template": "FIREWORK_STAR",
+    "data": 4000
+  },
+  "SYNTHETIC_DIAMOND": {
+    "id": "resources/industrial_diamond",
+    "item": "diamond",
+    "template": "ITEM",
+    "data": 4000
+  },
+  "SYNTHETIC_EMERALD": {
+    "id": "resources/synthetic_emerald",
+    "item": "emerald",
+    "template": "ITEM",
+    "data": 4011
+  },
+  "IRON_DUST": {
+    "id": "resources/iron_dust",
+    "item": "gunpowder",
+    "template": "ITEM",
+    "data": 4002
+  },
+  "LEAD_DUST": {
+    "id": "resources/lead_dust",
+    "item": "gunpowder",
+    "template": "ITEM",
+    "data": 4003
+  },
+  "GOLD_DUST": {
+    "id": "resources/gold_dust",
+    "item": "glowstone_dust",
+    "template": "ITEM",
+    "data": 4001
+  },
+  "COPPER_DUST": {
+    "id": "resources/copper_dust",
+    "item": "glowstone_dust",
+    "template": "ITEM",
+    "data": 4002
+  },
+  "TIN_DUST": {
+    "id": "resources/tin_dust",
+    "item": "sugar",
+    "template": "ITEM",
+    "data": 4002
+  },
+  "SILVER_DUST": {
+    "id": "resources/silver_dust",
+    "item": "sugar",
+    "template": "ITEM",
+    "data": 4003
+  },
+  "ALUMINUM_DUST": {
+    "id": "resources/aluminum_dust",
+    "item": "sugar",
+    "template": "ITEM",
+    "data": 4004
+  },
+  "ZINC_DUST": {
+    "id": "resources/zinc_dust",
+    "item": "sugar",
+    "template": "ITEM",
+    "data": 4005
+  },
+  "MAGNESIUM_DUST": {
+    "id": "resources/magnesium_dust",
+    "item": "sugar",
+    "template": "ITEM",
+    "data": 4006
+  },
+
+
+  "SOLAR_PANEL": {
+    "id": "technical_components/solar_panel",
+    "item": "daylight_detector",
+    "template": "BLOCK",
+    "data": 4000
+  },
+  "SOLAR_ARRAY": {
+    "id": "technical_components/solar_array",
+    "item": "daylight_detector",
+    "template": "BLOCK",
+    "data": 4001
+  },
+
+  "BATTERY": {
+    "id": "technical_components/battery",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4001
+  },
+  "CARGO_MOTOR": {
+    "id": "technical_components/cargo_motor",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4002
+  },
+  "COOLING_UNIT": {
+    "id": "technical_components/cooling_unit",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4003
+  },
+  "ELECTRO_MAGNET": {
+    "id": "technical_components/electromagnet",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4004
+  },
+  "HEATING_COIL": {
+    "id": "technical_components/heating_coil",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4005
+  },
+  "MAGNET": {
+    "id": "technical_components/magnet",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4006
+  },
+  "NETHER_ICE_COOLANT_CELL": {
+    "id": "technical_components/nether_ice_coolant_cell",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4007
+  },
+  "POWER_CRYSTAL": {
+    "id": "technical_components/powered_crystal",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4008
+  },
+  "REACTOR_COLLANT_CELL": {
+    "id": "technical_components/reactor_coolant_cell",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4009
+  },
+  "ELECTRIC_MOTOR": {
+    "id": "technical_components/electric_motor",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4010
+  },
+
+  "DUMO_NAK_COLLANT_CELL": {
+    "id": "nak_collant_cell",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4011
+  },
+  "DUMO_SUPER_COLLANT_CELL": {
+    "id": "super_collant_cell",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4012
+  },
+
+  "CARBONADO": {
+    "id": "resources/carbonado",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4013
+  },
+  "RAW_CARBONADO": {
+    "id": "resources/raw_carbonado",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4014
+  },
+  "SYNTHETIC_SAPPHIRE": {
+    "id": "resources/synthetic_sapphire",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4015
+  },
+  "CARBON": {
+    "id": "resources/carbon",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4016
+  },
+  "COMPRESSED_CARBON": {
+    "id": "resources/compressed_carbon",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4017
+  },
+  "CARBON_CHUNK": {
+    "id": "resources/carbon_chunk",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4018
+  },
+  "TINY_URANIUM": {
+    "id": "resources/tiny_uranium",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4019
+  },
+  "SMALL_URANIUM": {
+    "id": "resources/small_uranium",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4020
+  },
+  "URANIUM": {
+    "id": "resources/uranium",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4021
+  },
+  "NEPTUNIUM": {
+    "id": "resources/neptunium",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4022
+  },
+  "PLUTONIUM": {
+    "id": "resources/plutonium",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4023
+  },
+  "BOOSTED_URANIUM": {
+    "id": "resources/boosted_uranium",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4024
+  },
+
+  "DUMO_DEPLETED_URANIUM": {
+    "id": "depleted_uranium",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4025
+  },
+  "DUMO_SMALL_PLUTONIUM": {
+    "id": "small_plutonium",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4026
+  },
+  "DUMO_SMALL_RADIUM": {
+    "id": "small_radium",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4027
+  },
+  "DUMO_RADIUM": {
+    "id": "radium",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4028
+  },
+  "DUMO_SOLARIZED_RADIUM": {
+    "id": "solarized_radium",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4029
+  },
+  "DUMO_THORIUM": {
+    "id": "throium",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4030
+  },
+  "DUMO_NUCLEAR_WASTE": {
+    "id": "depleted_mox",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4031
+  },
+  "DUMO_MOX_FUEL_ROD": {
+    "id": "mox",
+    "item": "player_head",
+    "template": "SKULL",
+    "data": 4032
+  },
+
+
+
   "_DUMO_UI_BACKGROUND": {
     "id": "gui/background",
     "item": "gray_stained_glass_pane",
@@ -112,6 +634,78 @@
     "item": "apple",
     "template": "ITEM",
     "data": 4001
+  },
+  "DUMO_BASIC_CIRCUIT_BOARD": {
+    "id": "basic_circuit_board",
+    "item": "prismarine_shard",
+    "template": "ITEM",
+    "data": 4007
+  },
+  "DUMO_ADV_CIRCUIT_BOARD": {
+    "id": "adv_circuit_board",
+    "item": "prismarine_shard",
+    "template": "ITEM",
+    "data": 4008
+  },
+  "DUMO_PROF_CIRCUIT_BOARD": {
+    "id": "prof_circuit_board",
+    "item": "prismarine_shard",
+    "template": "ITEM",
+    "data": 4009
+  },
+  "DUMO_EXPE_CIRCUIT_BOARD": {
+    "id": "expe_circuit_board",
+    "item": "prismarine_shard",
+    "template": "ITEM",
+    "data": 4010
+  },
+  "DUMO_ULTI_CIRCUIT_BOARD": {
+    "id": "ulti_circuit_board",
+    "item": "prismarine_shard",
+    "template": "ITEM",
+    "data": 4011
+  },
+  "DUMO_WETWARE_PROCESSOR": {
+    "id": "wetware",
+    "item": "prismarine_shard",
+    "template": "ITEM",
+    "data": 4012
+  },
+  "DUMO_WETWARE_PROCESSOR_ASM": {
+    "id": "wetware_asm",
+    "item": "prismarine_shard",
+    "template": "ITEM",
+    "data": 4013
+  },
+  "DUMO_MICRO_PROCESSOR_1": {
+    "id": "mp_1",
+    "item": "prismarine_shard",
+    "template": "ITEM",
+    "data": 4014
+  },
+  "DUMO_MICRO_PROCESSOR_2": {
+    "id": "mp_2",
+    "item": "prismarine_shard",
+    "template": "ITEM",
+    "data": 4015
+  },
+  "DUMO_MICRO_PROCESSOR_3": {
+    "id": "mp_3",
+    "item": "prismarine_shard",
+    "template": "ITEM",
+    "data": 4016
+  },
+  "DUMO_MICRO_PROCESSOR_4": {
+    "id": "mp_4",
+    "item": "prismarine_shard",
+    "template": "ITEM",
+    "data": 4017
+  },
+  "DUMO_MICRO_PROCESSOR_5": {
+    "id": "mp_5",
+    "item": "prismarine_shard",
+    "template": "ITEM",
+    "data": 4018
   }
 }
 
