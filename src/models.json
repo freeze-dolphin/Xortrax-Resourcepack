@@ -270,7 +270,7 @@
         "id": "resources/solder_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
-        "data": 4010
+        "data": 4011
     },
     "STEEL_PLATE":
     {
