@@ -17,7 +17,7 @@ jobs:
       - name: Setting up node.js
         uses: actions/setup-node@v2.1.2
         with:
-          node-version: '12'
+          node-version: '18'
       - name: Creating new semantic version
         id: create_version
         uses: anothrNick/github-tag-action@1.33.0
@@ -31,7 +31,7 @@ jobs:
       - name: Zipping Resources
         uses: montudor/action-zip@v0.1.0
         with:
-          args: zip -r ./resourcepack.zip ./assets ./pack.mcmeta ./LICENSE ./pack.png
+          args: zip -r ./resourcepack.zip ./assets ./pack.mcmeta ./LICENSE
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1.1.4
