@@ -230,6 +230,18 @@
         "template": "ITEM",
         "data": 4005
     },
+    "CORINTHIAN_BRONZE_INGOT": {
+        "id": "resources/corinthian_bronze_ingot",
+        "item": "gold_ingot",
+        "template": "ITEM",
+        "data": 4006
+    },
+    "ALUMINUM_BRONZE_INGOT": {
+        "id": "resources/aluminum_bronze_ingot",
+        "item": "gold_ingot",
+        "template": "ITEM",
+        "data": 4007
+    },
     "REINFORCED_ALLOY_INGOT":
     {
         "id": "resources/reinforced_alloy_ingot",
@@ -1020,5 +1032,12 @@
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4047
+    },
+    "DUMO_ALLOY_BOOK":
+    {
+        "id": "alloy_book",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4048
     }
 }
