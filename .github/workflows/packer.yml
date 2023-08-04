@@ -26,9 +26,7 @@ jobs:
       run: |
         chmod +x generate.sh
         ./generate.sh
-        mkdir build
-        cp item-models.yml build/
-        zip -r ./build/resourcepack.zip ./assets ./pack.mcmeta ./LICENSE
+        zip -r ./resourcepack.zip ./assets ./pack.mcmeta ./LICENSE
     
     - name: Upload Pack
       uses: actions/upload-artifact@v3.1.2
