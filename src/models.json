@@ -683,6 +683,20 @@
         "template": "GLASS_PANE",
         "data": 4009
     },
+    "_DUMO_UI_ARROW_LEFT_BOOK":
+    {
+        "id": "gui/arrow_left_book",
+        "item": "gray_stained_glass_pane",
+        "template": "GLASS_PANE",
+        "data": 4010
+    },
+    "_DUMO_UI_ARROW_RIGHT_BOOK":
+    {
+        "id": "gui/arrow_right_book",
+        "item": "gray_stained_glass_pane",
+        "template": "GLASS_PANE",
+        "data": 4011
+    },
     "DUMO_CIRCUIT_1":
     {
         "id": "circuit_1",
