@@ -26,12 +26,14 @@ jobs:
       run: |
         chmod +x generate.sh
         ./generate.sh
-        zip -r ./Slimefun4-Resourcepack.zip ./assets ./pack.mcmeta ./LICENSE
+        mkdir build
+        cp item-models.yml build/
+        zip -r ./build/Slimefun4-Resourcepack.zip ./assets ./pack.mcmeta ./LICENSE
     
     - name: Upload Pack
       uses: actions/upload-artifact@v3.1.2
       with:
         # Artifact name
         name: Slimefun4-Resourcepack
-        path: ./Slimefun4-Resourcepack.zip ./item-models.yml
+        path: ./build/
         # The desired behavior if no files are found usi
