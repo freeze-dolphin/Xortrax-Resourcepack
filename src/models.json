@@ -1053,5 +1053,12 @@
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4048
+    },
+    "DUMO_MAGIC_DIELECTRIC_CARBON_SILICON_CUBIC_CRYSTAL":
+    {
+        "id": "magic_dielectric_carbon_silicon_cubic_crystal",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4049
     }
 }
