@@ -230,13 +230,15 @@
         "template": "ITEM",
         "data": 4005
     },
-    "CORINTHIAN_BRONZE_INGOT": {
+    "CORINTHIAN_BRONZE_INGOT":
+    {
         "id": "resources/corinthian_bronze_ingot",
         "item": "gold_ingot",
         "template": "ITEM",
         "data": 4006
     },
-    "ALUMINUM_BRONZE_INGOT": {
+    "ALUMINUM_BRONZE_INGOT":
+    {
         "id": "resources/aluminum_bronze_ingot",
         "item": "gold_ingot",
         "template": "ITEM",
@@ -339,6 +341,13 @@
         "item": "glowstone_dust",
         "template": "ITEM",
         "data": 4002
+    },
+    "SALT": 
+    {
+        "id": "resources/salt",
+        "item": "sugar",
+        "template": "ITEM",
+        "data": 4001
     },
     "TIN_DUST":
     {
@@ -1060,5 +1069,40 @@
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4049
+    },
+    "DUMO_SODIUM_INGOT":
+    {
+        "id": "sodium_ingot",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4050
+    },
+    "DUMO_SODIUM_DUST":
+    {
+        "id": "sodium_dust",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4051
+    },
+    "DUMO_MANGANESE_INGOT":
+    {
+        "id": "manganese_ingot",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4052
+    },
+    "DUMO_MANGANESE_DUST":
+    {
+        "id": "manganese_dust",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4053
+    },
+    "DUMO_CRYSTALLINE_SILICON":
+    {
+        "id": "crystalline_silicon",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4054
     }
 }
