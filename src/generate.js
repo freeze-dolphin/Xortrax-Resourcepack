@@ -31,22 +31,25 @@ Promise.all([
 		let id = cfg.id ? cfg.id: slimefunItem.toLowerCase();
 		let texture = cfg.texture ? cfg.texture: id;
 
-        fs.writeFile(`assets/slimefun/models/item/${id}.json`, JSON.stringify({
-            parent: "item/generated",
-            textures: {
-                "layer0": "slimefun:item/" + texture
-            }
-        }), "UTF-8");
+        if (cfg.template != "CUSTOM") {
+            fs.writeFile(`assets/slimefun/models/item/${id}.json`, JSON.stringify({
+                parent: "item/generated",
+                textures: {
+                    "layer0": "slimefun:item/" + texture
+                }
+            }), "UTF-8");
+        }
     }
 
     for (let item in minecraft) {
         console.log(`Altering "${item}.json"`);
         var overrides = [];
         var template = "NONE";
+        var id = "";
 
         for (let i in minecraft[item]) {
             let slimefunItem = json[minecraft[item][i]];
-			let id = slimefunItem.id ? slimefunItem.id: minecraft[item][i].toLowerCase();
+			id = slimefunItem.id ? slimefunItem.id: minecraft[item][i].toLowerCase();
             template = slimefunItem.template;
 
             overrides.push({
@@ -58,7 +61,12 @@ Promise.all([
         }
 
         overrides.sort((a, b) => a.predicate.custom_model_data - b.predicate.custom_model_data);
-        templates[template](item, overrides);
+        
+        if (template === "CUSTOM") {
+            templates[template](item, overrides, id);
+        } else {
+            templates[template](item, overrides);
+        }
     }
 
     console.log("Exporting 'item-models.yml'");

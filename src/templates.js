@@ -75,6 +75,13 @@ module.exports = {
             overrides: overrides
         }), "UTF-8");
 	},
+	CUSTOM: (item, overrides, id) => {
+		fs.copyFile(`custom_model/${id}.json`, `assets/slimefun/models/item/${id}.json`)
+		fs.writeFile(`assets/minecraft/models/item/${item}.json`, JSON.stringify({
+            parent: "minecraft:item/generated",
+            overrides: overrides
+        }), "UTF-8");
+	},
 	CLOCK: (item, overrides) => {
 		var faces = [
 			{

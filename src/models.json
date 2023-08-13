@@ -1321,5 +1321,13 @@
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4059
+    },
+    "DUMO_QIAN_THE_MIGHTY_BLADE":
+    {
+        "id": "mdqr",
+        "item": "prismarine_shard",
+        "template": "CUSTOM",
+        "data": 4060
     }
+
 }
