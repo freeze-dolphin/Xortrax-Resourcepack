@@ -284,7 +284,7 @@
         "id": "resources/solder_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
-        "data": 4011
+        "data": 4015
     },
     "STEEL_PLATE":
     {
@@ -1328,6 +1328,27 @@
         "item": "prismarine_shard",
         "template": "CUSTOM",
         "data": 4060
+    },
+    "DUMO_XIAOLONGUP":
+    {
+        "id": "xiaolongup",
+        "item": "prismarine_shard",
+        "template": "CUSTOM",
+        "data": 4061
+    },
+    "DUMO_HOSHINO_WEAPON":
+    {
+        "id": "hoshino_weapon",
+        "item": "prismarine",
+        "template": "CUSTOM",
+        "data": 4000
+    },
+    "DUMO_HOSHINO_HALO":
+    {
+        "id": "hoshino_halo",
+        "item": "iron_helmet",
+        "template": "CUSTOM",
+        "data": 4002
     }
 
 }
