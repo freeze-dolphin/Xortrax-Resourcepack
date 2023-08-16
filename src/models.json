@@ -1346,9 +1346,9 @@
     "DUMO_HOSHINO_HALO":
     {
         "id": "hoshino_halo",
-        "item": "iron_helmet",
+        "item": "prismarine_shard",
         "template": "CUSTOM",
-        "data": 4002
+        "data": 4062
     }
 
 }

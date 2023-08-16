@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "slimefun:item/model_texture/hoshino_halo/hoshino_halo_solid",
 		"1": "slimefun:item/model_texture/hoshino_halo/hoshino_halo_texture",
-		"particle": "hoshino_halo_solid"
+		"particle": "slimefun:item/model_texture/hoshino_halo/hoshino_halo_solid"
 	},
 	"elements": [
 		{
@@ -741,8 +741,8 @@
 			"rotation": [90, 0, 0]
 		},
 		"head": {
-			"rotation": [0, 180, 0],
-			"translation": [0, 17.75, 0],
+			"rotation": [-156.75, 0, -180],
+			"translation": [0, 17.75, 9.25],
 			"scale": [2, 2, 2]
 		}
 	},

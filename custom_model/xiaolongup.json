@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench, by Sapphira Tempest",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "xiaozhangup"
+		"0": "slimefun:item/model_texture/xiaozhangup"
 	},
 	"elements": [
 		{
