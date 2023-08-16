@@ -24,8 +24,7 @@ jobs:
 
     - name: Generate
       run: |
-        chmod +x generate.sh
-        ./generate.sh
+        make
         mkdir build
         cp item-models.yml build/
         zip -r ./build/Slimefun4-Resourcepack.zip ./assets ./pack.mcmeta ./LICENSE
