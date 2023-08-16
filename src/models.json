@@ -32,7 +32,7 @@
         "id": "technical_components/reinforced_cloth",
         "item": "paper",
         "template": "ITEM",
-        "data": 4001
+        "data": 4003
     },
     "STEEL_THRUSTER":
     {
