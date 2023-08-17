@@ -1339,7 +1339,7 @@
     "DUMO_HOSHINO_WEAPON":
     {
         "id": "hoshino_weapon",
-        "item": "prismarine",
+        "item": "prismarine_crystals",
         "template": "CUSTOM",
         "data": 4000
     },
@@ -1349,6 +1349,13 @@
         "item": "prismarine_shard",
         "template": "CUSTOM",
         "data": 4062
+    },
+    "DUMO_MIKA_HALO":
+    {
+        "id": "mika_halo",
+        "item": "prismarine_shard",
+        "template": "CUSTOM",
+        "data": 4063
     }
 
 }

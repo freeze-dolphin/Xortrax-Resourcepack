@@ -79,6 +79,9 @@ module.exports = {
 		fs.copyFile(`custom_model/${id}.json`, `assets/slimefun/models/item/${id}.json`)
 		fs.writeFile(`assets/minecraft/models/item/${item}.json`, JSON.stringify({
             parent: "minecraft:item/generated",
+            textures: {
+                "layer0": "minecraft:item/" + item
+            },
             overrides: overrides
         }), "UTF-8");
 	},
