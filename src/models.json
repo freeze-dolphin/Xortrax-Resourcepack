@@ -1356,6 +1356,13 @@
         "item": "prismarine_shard",
         "template": "CUSTOM",
         "data": 4063
+    },
+    "DUMO_ARIS_WEAPON":
+    {
+        "id": "supernova",
+        "item": "prismarine_crystals",
+        "template": "CUSTOM",
+        "data": 4001
     }
 
 }
