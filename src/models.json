@@ -1363,6 +1363,20 @@
         "item": "prismarine_crystals",
         "template": "CUSTOM",
         "data": 4001
+    },
+    "REDPRINT":
+    {
+        "id": "redprint",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4064
+    },
+    "GREENPRINT":
+    {
+        "id": "greenprint",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4065
     }
 
 }
