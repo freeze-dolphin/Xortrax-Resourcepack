@@ -9,6 +9,7 @@ Promise.all([
     fs.mkdir("assets/slimefun/models/item/gui", {recursive:true}),
     fs.mkdir("assets/slimefun/models/item/technical_components", {recursive:true}),
     fs.mkdir("assets/slimefun/models/item/technical_gadgets", {recursive:true}),
+    fs.mkdir("assets/slimefun/models/item/ammo", {recursive:true}),
     fs.mkdir("assets/slimefun/models/item/resources", {recursive:true})
 ]).then(() => fs.readFile("src/models.json", "UTF-8").then(models => {
     let json = JSON.parse(models);
