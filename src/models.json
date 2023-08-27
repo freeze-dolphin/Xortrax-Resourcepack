@@ -1378,959 +1378,959 @@
         "template": "ITEM",
         "data": 4065
     },
-    "12GINCENDIARYAMMO":
+    "ETHERITE_AMMO_12GINCENDIARYAMMO":
     {
         "id": "12gincendiaryammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4066
     },
-    "SIDEWINDER7AMMO":
+    "ETHERITE_AMMO_SIDEWINDER7AMMO":
     {
         "id": "sidewinder7ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4067
     },
-    "HESNIPERAMMO":
+    "ETHERITE_AMMO_HESNIPERAMMO":
     {
         "id": "hesniperammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4068
     },
-    "FAMASAMMO":
+    "ETHERITE_AMMO_FAMASAMMO":
     {
         "id": "famasammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4069
     },
-    "PR3OSCAMMO":
+    "ETHERITE_AMMO_PR3OSCAMMO":
     {
         "id": "pr3oscammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4070
     },
-    "PR3AMMO":
+    "ETHERITE_AMMO_PR3AMMO":
     {
         "id": "pr3ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4071
     },
-    "SPASAMMO":
+    "ETHERITE_AMMO_SPASAMMO":
     {
         "id": "spasammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4072
     },
-    "AN94AMMO":
+    "ETHERITE_AMMO_AN94AMMO":
     {
         "id": "an94ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4073
     },
-    "MP5AMMO":
+    "ETHERITE_AMMO_MP5AMMO":
     {
         "id": "mp5ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4074
     },
-    "Z20SIGNETAMMO":
+    "ETHERITE_AMMO_Z20SIGNETAMMO":
     {
         "id": "z20signetammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4075
     },
-    "M14AMMO":
+    "ETHERITE_AMMO_M14AMMO":
     {
         "id": "m14ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4076
     },
-    "BARRETTEXPLOSIVEAMMO":
+    "ETHERITE_AMMO_BARRETTEXPLOSIVEAMMO":
     {
         "id": "barrettexplosiveammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4077
     },
-    "ROCKETPOD57MMAMMO":
+    "ETHERITE_AMMO_ROCKETPOD57MMAMMO":
     {
         "id": "rocketpod57mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4078
     },
-    "BARRETTAMMO":
+    "ETHERITE_AMMO_BARRETTAMMO":
     {
         "id": "barrettammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4079
     },
-    "M1887AMMO":
+    "ETHERITE_AMMO_M1887AMMO":
     {
         "id": "m1887ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4080
     },
-    "M40A3AMMO":
+    "ETHERITE_AMMO_M40A3AMMO":
     {
         "id": "m40a3ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4081
     },
-    "12GBUCKSHOTAMMO":
+    "ETHERITE_AMMO_12GBUCKSHOTAMMO":
     {
         "id": "12gbuckshotammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4082
     },
-    "SKORPIONAMMO":
+    "ETHERITE_AMMO_SKORPIONAMMO":
     {
         "id": "skorpionammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4083
     },
-    "BIZONAMMO":
+    "ETHERITE_AMMO_BIZONAMMO":
     {
         "id": "bizonammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4084
     },
-    "SIGP226AMMO":
+    "ETHERITE_AMMO_SIGP226AMMO":
     {
         "id": "sigp226ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4085
     },
-    "FLAREGUNBLUEAMMO":
+    "ETHERITE_AMMO_FLAREGUNBLUEAMMO":
     {
         "id": "flaregunblueammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4086
     },
-    "SPLITTERCANNONREFRACTEDAMMO":
+    "ETHERITE_AMMO_SPLITTERCANNONREFRACTEDAMMO":
     {
         "id": "splittercannonrefractedammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4087
     },
-    "B4CROSSBOWAMMO":
+    "ETHERITE_AMMO_B4CROSSBOWAMMO":
     {
         "id": "b4crossbowammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4088
     },
-    "P90AMMO":
+    "ETHERITE_AMMO_P90AMMO":
     {
         "id": "p90ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4089
     },
-    "KCASMARTCARBINEAMMO":
+    "ETHERITE_AMMO_KCASMARTCARBINEAMMO":
     {
         "id": "kcasmartcarbineammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4090
     },
-    "SG550AMMO":
+    "ETHERITE_AMMO_SG550AMMO":
     {
         "id": "sg550ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4091
     },
-    "NTW20AMMO":
+    "ETHERITE_AMMO_NTW20AMMO":
     {
         "id": "ntw20ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4092
     },
-    "EMP4AMMO":
+    "ETHERITE_AMMO_EMP4AMMO":
     {
         "id": "emp4ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4093
     },
-    "AMA40MMSPOTLIGHTAMMO":
+    "ETHERITE_AMMO_AMA40MMSPOTLIGHTAMMO":
     {
         "id": "ama40mmspotlightammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4094
     },
-    "STINGERAMMO":
+    "ETHERITE_AMMO_STINGERAMMO":
     {
         "id": "stingerammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4095
     },
-    "MINIUZIAMMO":
+    "ETHERITE_AMMO_MINIUZIAMMO":
     {
         "id": "miniuziammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4096
     },
-    "M72LAWAMMO":
+    "ETHERITE_AMMO_M72LAWAMMO":
     {
         "id": "m72lawammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4097
     },
-    "HIGHEXPISTOLAMMO":
+    "ETHERITE_AMMO_HIGHEXPISTOLAMMO":
     {
         "id": "highexpistolammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4098
     },
-    "GAU19AMMO":
+    "ETHERITE_AMMO_GAU19AMMO":
     {
         "id": "gau19ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4099
     },
-    "BARRETTCOMPACTAMMO":
+    "ETHERITE_AMMO_BARRETTCOMPACTAMMO":
     {
         "id": "barrettcompactammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4100
     },
-    "R700AMMO":
+    "ETHERITE_AMMO_R700AMMO":
     {
         "id": "r700ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4101
     },
-    "Z10LIGHTRIFLEAMMO":
+    "ETHERITE_AMMO_Z10LIGHTRIFLEAMMO":
     {
         "id": "z10lightrifleammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4102
     },
-    "AK47AMMO":
+    "ETHERITE_AMMO_AK47AMMO":
     {
         "id": "ak47ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4103
     },
-    "TRIPLETAKEAMMO":
+    "ETHERITE_AMMO_TRIPLETAKEAMMO":
     {
         "id": "tripletakeammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4104
     },
-    "SEEKERRIFLEAMMO":
+    "ETHERITE_AMMO_SEEKERRIFLEAMMO":
     {
         "id": "seekerrifleammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4105
     },
-    "FNSCARAMMO":
+    "ETHERITE_AMMO_FNSCARAMMO":
     {
         "id": "fnscarammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4106
     },
-    "FLAREGUNBLACKAMMO":
+    "ETHERITE_AMMO_FLAREGUNBLACKAMMO":
     {
         "id": "flaregunblackammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4107
     },
-    "FLAREGUNGREENAMMO":
+    "ETHERITE_AMMO_FLAREGUNGREENAMMO":
     {
         "id": "flaregungreenammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4108
     },
-    "MINIGUNEXPLOSIVEAMMO":
+    "ETHERITE_AMMO_MINIGUNEXPLOSIVEAMMO":
     {
         "id": "minigunexplosiveammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4109
     },
-    "WITHERINGAKAMMO":
+    "ETHERITE_AMMO_WITHERINGAKAMMO":
     {
         "id": "witheringakammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4110
     },
-    "12GBIRDSHOTAMMO":
+    "ETHERITE_AMMO_12GBIRDSHOTAMMO":
     {
         "id": "12gbirdshotammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4111
     },
-    "L86AMMO":
+    "ETHERITE_AMMO_L86AMMO":
     {
         "id": "l86ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4112
     },
-    "G3AMMO":
+    "ETHERITE_AMMO_G3AMMO":
     {
         "id": "g3ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4113
     },
-    "ACRAMMO":
+    "ETHERITE_AMMO_ACRAMMO":
     {
         "id": "acrammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4114
     },
-    "AUGAMMO":
+    "ETHERITE_AMMO_AUGAMMO":
     {
         "id": "augammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4115
     },
-    "FLAMETHROWERAMMO":
+    "ETHERITE_AMMO_FLAMETHROWERAMMO":
     {
         "id": "flamethrowerammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4116
     },
-    "GAU24MMHEAMMO":
+    "ETHERITE_AMMO_GAU24MMHEAMMO":
     {
         "id": "gau24mmheammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4117
     },
-    "HYDRA70AMMO":
+    "ETHERITE_AMMO_HYDRA70AMMO":
     {
         "id": "hydra70ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4118
     },
-    "MTARAMMO":
+    "ETHERITE_AMMO_MTARAMMO":
     {
         "id": "mtarammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4119
     },
-    "STARSAMMO":
+    "ETHERITE_AMMO_STARSAMMO":
     {
         "id": "starsammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4120
     },
-    "FLAREGUNWHITEAMMO":
+    "ETHERITE_AMMO_FLAREGUNWHITEAMMO":
     {
         "id": "flaregunwhiteammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4121
     },
-    "ASH12AMMO":
+    "ETHERITE_AMMO_ASH12AMMO":
     {
         "id": "ash12ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4122
     },
-    "M1014AMMO":
+    "ETHERITE_AMMO_M1014AMMO":
     {
         "id": "m1014ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4123
     },
-    "AA12AMMO":
+    "ETHERITE_AMMO_AA12AMMO":
     {
         "id": "aa12ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4124
     },
-    "12GSLUGAMMO":
+    "ETHERITE_AMMO_12GSLUGAMMO":
     {
         "id": "12gslugammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4125
     },
-    "MINIGUNAMMO":
+    "ETHERITE_AMMO_MINIGUNAMMO":
     {
         "id": "minigunammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4126
     },
-    "GAU20MMARCAMMO":
+    "ETHERITE_AMMO_GAU20MMARCAMMO":
     {
         "id": "gau20mmarcammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4127
     },
-    "KRISSVECTORAMMO":
+    "ETHERITE_AMMO_KRISSVECTORAMMO":
     {
         "id": "krissvectorammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4128
     },
-    "R870AMMO":
+    "ETHERITE_AMMO_R870AMMO":
     {
         "id": "r870ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4129
     },
-    "ADAR15AMMO":
+    "ETHERITE_AMMO_ADAR15AMMO":
     {
         "id": "adar15ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4130
     },
-    "GAU30MMAMMO":
+    "ETHERITE_AMMO_GAU30MMAMMO":
     {
         "id": "gau30mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4131
     },
-    "FLAREGUNAMMO":
+    "ETHERITE_AMMO_FLAREGUNAMMO":
     {
         "id": "flaregunammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4132
     },
-    "STARSNCI3AMMO":
+    "ETHERITE_AMMO_STARSNCI3AMMO":
     {
         "id": "starsnci3ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4133
     },
-    "DESERTEAGLEAMMO":
+    "ETHERITE_AMMO_DESERTEAGLEAMMO":
     {
         "id": "deserteagleammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4134
     },
-    "MLRS6AMMO":
+    "ETHERITE_AMMO_MLRS6AMMO":
     {
         "id": "mlrs6ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4135
     },
-    "M60E4AMMO":
+    "ETHERITE_AMMO_M60E4AMMO":
     {
         "id": "m60e4ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4136
     },
-    "DRAGUNOVAMMO":
+    "ETHERITE_AMMO_DRAGUNOVAMMO":
     {
         "id": "dragunovammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4137
     },
-    "SHULKERSNIPERAMMO":
+    "ETHERITE_AMMO_SHULKERSNIPERAMMO":
     {
         "id": "shulkersniperammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4138
     },
-    "MWAMMOBAG":
+    "ETHERITE_AMMO_MWAMMOBAG":
     {
         "id": "mwammobag",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4139
     },
-    "AMA40MMAMMO":
+    "ETHERITE_AMMO_AMA40MMAMMO":
     {
         "id": "ama40mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4140
     },
-    "AT4AMMO":
+    "ETHERITE_AMMO_AT4AMMO":
     {
         "id": "at4ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4141
     },
-    "GAU30MMHEAMMO":
+    "ETHERITE_AMMO_GAU30MMHEAMMO":
     {
         "id": "gau30mmheammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4142
     },
-    "DEVOTIONX55AMMO":
+    "ETHERITE_AMMO_DEVOTIONX55AMMO":
     {
         "id": "devotionx55ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4143
     },
-    "KCASLUGGERAMMO":
+    "ETHERITE_AMMO_KCASLUGGERAMMO":
     {
         "id": "kcasluggerammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4144
     },
-    "12GHIGHEXPLOSIVEAMMO":
+    "ETHERITE_AMMO_12GHIGHEXPLOSIVEAMMO":
     {
         "id": "12ghighexplosiveammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4145
     },
-    "W1200AMMO":
+    "ETHERITE_AMMO_W1200AMMO":
     {
         "id": "w1200ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4146
     },
-    "M16A4AMMO":
+    "ETHERITE_AMMO_M16A4AMMO":
     {
         "id": "m16a4ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4147
     },
-    "M249AMMO":
+    "ETHERITE_AMMO_M249AMMO":
     {
         "id": "m249ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4148
     },
-    "GLOCKAMMO":
+    "ETHERITE_AMMO_GLOCKAMMO":
     {
         "id": "glockammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4149
     },
-    "HONEYBADGERAMMO":
+    "ETHERITE_AMMO_HONEYBADGERAMMO":
     {
         "id": "honeybadgerammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4150
     },
-    "RPGAMMO":
+    "ETHERITE_AMMO_RPGAMMO":
     {
         "id": "rpgammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4151
     },
-    "12GFLECHETTEAMMO":
+    "ETHERITE_AMMO_12GFLECHETTEAMMO":
     {
         "id": "12gflechetteammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4152
     },
-    "L96AMMO":
+    "ETHERITE_AMMO_L96AMMO":
     {
         "id": "l96ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4153
     },
-    "PREDATOR37MMSRAMMO":
+    "ETHERITE_AMMO_PREDATOR37MMSRAMMO":
     {
         "id": "predator37mmsrammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4154
     },
-    "GRENADELAUNCHERAMMO":
+    "ETHERITE_AMMO_GRENADELAUNCHERAMMO":
     {
         "id": "grenadelauncherammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4155
     },
-    "M21AMMO":
+    "ETHERITE_AMMO_M21AMMO":
     {
         "id": "m21ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4156
     },
-    "PAW20AMMO":
+    "ETHERITE_AMMO_PAW20AMMO":
     {
         "id": "paw20ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4157
     },
-    "12GPOISONEDFLECHETTEAMMO":
+    "ETHERITE_AMMO_12GPOISONEDFLECHETTEAMMO":
     {
         "id": "12gpoisonedflechetteammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4158
     },
-    "GRENADELAUNCHERINCENDIARYAMMO":
+    "ETHERITE_AMMO_GRENADELAUNCHERINCENDIARYAMMO":
     {
         "id": "grenadelauncherincendiaryammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4159
     },
-    "GRENADELAUNCHERBOUNCYAMMO":
+    "ETHERITE_AMMO_GRENADELAUNCHERBOUNCYAMMO":
     {
         "id": "grenadelauncherbouncyammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4160
     },
-    "GALILAMMO":
+    "ETHERITE_AMMO_GALILAMMO":
     {
         "id": "galilammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4161
     },
-    "RPKAMMO":
+    "ETHERITE_AMMO_RPKAMMO":
     {
         "id": "rpkammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4162
     },
-    "AU40MMHEAMMO":
+    "ETHERITE_AMMO_AU40MMHEAMMO":
     {
         "id": "au40mmheammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4163
     },
-    "HCARAMMO":
+    "ETHERITE_AMMO_HCARAMMO":
     {
         "id": "hcarammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4164
     },
-    "KCASMART50AMMO":
+    "ETHERITE_AMMO_KCASMART50AMMO":
     {
         "id": "kcasmart50ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4165
     },
-    "APCRRIFLEAMMO":
+    "ETHERITE_AMMO_APCRRIFLEAMMO":
     {
         "id": "apcrrifleammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4166
     },
-    "GAU20MMAMMO":
+    "ETHERITE_AMMO_GAU20MMAMMO":
     {
         "id": "gau20mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4167
     },
-    "W1200INCENDIARYAMMO":
+    "ETHERITE_AMMO_W1200INCENDIARYAMMO":
     {
         "id": "w1200incendiaryammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4168
     },
-    "USPPOISONAMMO":
+    "ETHERITE_AMMO_USPPOISONAMMO":
     {
         "id": "usppoisonammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4169
     },
-    "ROCKETPOD68MMAMMO":
+    "ETHERITE_AMMO_ROCKETPOD68MMAMMO":
     {
         "id": "rocketpod68mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4170
     },
-    "SNIPERAMMO":
+    "ETHERITE_AMMO_SNIPERAMMO":
     {
         "id": "sniperammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4171
     },
-    "PANZERFAUST3AMMO":
+    "ETHERITE_AMMO_PANZERFAUST3AMMO":
     {
         "id": "panzerfaust3ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4172
     },
-    "MINIGUNAMMOPORTABLE":
+    "ETHERITE_AMMO_MINIGUNAMMOPORTABLE":
     {
         "id": "minigunammoportable",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4173
     },
-    "BASICSALVOAMMO":
+    "ETHERITE_AMMO_BASICSALVOAMMO":
     {
         "id": "basicsalvoammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4174
     },
-    "COLDWARE2AMMO":
+    "ETHERITE_AMMO_COLDWARE2AMMO":
     {
         "id": "coldware2ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4175
     },
-    "GRENADELAUNCHERGASAMMO":
+    "ETHERITE_AMMO_GRENADELAUNCHERGASAMMO":
     {
         "id": "grenadelaunchergasammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4176
     },
-    "AU40MMAMMO":
+    "ETHERITE_AMMO_AU40MMAMMO":
     {
         "id": "au40mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4177
     },
-    "RPDAMMO":
+    "ETHERITE_AMMO_RPDAMMO":
     {
         "id": "rpdammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4178
     },
-    "G36AMMO":
+    "ETHERITE_AMMO_G36AMMO":
     {
         "id": "g36ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4179
     },
-    "Z45SENTINELAMMO":
+    "ETHERITE_AMMO_Z45SENTINELAMMO":
     {
         "id": "z45sentinelammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4180
     },
-    "AK74AMMO":
+    "ETHERITE_AMMO_AK74AMMO":
     {
         "id": "ak74ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4181
     },
-    "ADVANCEDSALVOAMMO":
+    "ETHERITE_AMMO_ADVANCEDSALVOAMMO":
     {
         "id": "advancedsalvoammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4182
     },
-    "KCASMARTPISTOLAMMO":
+    "ETHERITE_AMMO_KCASMARTPISTOLAMMO":
     {
         "id": "kcasmartpistolammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4183
     },
-    "A91AMMO":
+    "ETHERITE_AMMO_A91AMMO":
     {
         "id": "a91ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4184
     },
-    "SPLITTERCANNONAMMO":
+    "ETHERITE_AMMO_SPLITTERCANNONAMMO":
     {
         "id": "splittercannonammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4185
     },
-    "PREDATOR37MMAMMO":
+    "ETHERITE_AMMO_PREDATOR37MMAMMO":
     {
         "id": "predator37mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4186
     },
-    "PREDATOR37MMLRAMMO":
+    "ETHERITE_AMMO_PREDATOR37MMLRAMMO":
     {
         "id": "predator37mmlrammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4187
     },
-    "SMG100AMMO":
+    "ETHERITE_AMMO_SMG100AMMO":
     {
         "id": "smg100ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4188
     },
-    "GRENADELAUNCHERIMPACTAMMO":
+    "ETHERITE_AMMO_GRENADELAUNCHERIMPACTAMMO":
     {
         "id": "grenadelauncherimpactammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4189
     },
-    "VOLTV3AMMO":
+    "ETHERITE_AMMO_VOLTV3AMMO":
     {
         "id": "voltv3ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4190
     },
-    "JURYAMMO":
+    "ETHERITE_AMMO_JURYAMMO":
     {
         "id": "juryammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4191
     },
-    "STARSBURNINGRUBBERAMMO":
+    "ETHERITE_AMMO_STARSBURNINGRUBBERAMMO":
     {
         "id": "starsburningrubberammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4192
     },
-    "GAU20MMHVLEAMMO":
+    "ETHERITE_AMMO_GAU20MMHVLEAMMO":
     {
         "id": "gau20mmhvleammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4193
     },
-    "GAU24MMAMMO":
+    "ETHERITE_AMMO_GAU24MMAMMO":
     {
         "id": "gau24mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4194
     },
-    "KCASLUGGERKINETICAMMO":
+    "ETHERITE_AMMO_KCASLUGGERKINETICAMMO":
     {
         "id": "kcasluggerkineticammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4195
     },
-    "USPAMMO":
+    "ETHERITE_AMMO_USPAMMO":
     {
         "id": "uspammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4196
     },
-    "COLT45AMMO":
+    "ETHERITE_AMMO_COLT45AMMO":
     {
         "id": "colt45ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4197
     },
-    "M9AMMO":
+    "ETHERITE_AMMO_M9AMMO":
     {
         "id": "m9ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4198
     },
-    "Z16SPLICERRIFLEAMMO":
+    "ETHERITE_AMMO_Z16SPLICERRIFLEAMMO":
     {
         "id": "z16splicerrifleammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4199
     },
-    "MASTIFF1218AMMO":
+    "ETHERITE_AMMO_MASTIFF1218AMMO":
     {
         "id": "mastiff1218ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4200
     },
-    "APPISTOLAMMO":
+    "ETHERITE_AMMO_APPISTOLAMMO":
     {
         "id": "appistolammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4201
     },
-    "Z15SPLICERAMMO":
+    "ETHERITE_AMMO_Z15SPLICERAMMO":
     {
         "id": "z15splicerammo",
         "item": "prismarine_shard",
