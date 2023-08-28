@@ -2336,5 +2336,12 @@
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4202
+    },
+    "ETHERITE_ETHER_DUST":
+    {
+        "id": "ether_dust",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4203
     }
 }
