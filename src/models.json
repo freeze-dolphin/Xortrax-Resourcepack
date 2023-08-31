@@ -2343,5 +2343,19 @@
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4203
+    },
+    "ETHERITE_PAGER":
+    {
+        "id": "walkietalkie",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4204
+    },
+    "ETHERITE_PORTABLE_VAULT":
+    {
+        "id": "vault",
+        "item": "prismarine_shard",
+        "template": "ITEM",
+        "data": 4205
     }
 }
