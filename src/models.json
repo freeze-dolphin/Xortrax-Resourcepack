@@ -2347,9 +2347,9 @@
     "ETHERITE_PAGER":
     {
         "id": "walkietalkie",
-        "item": "prismarine_shard",
-        "template": "ITEM",
-        "data": 4204
+        "item": "clock",
+        "template": "CLOCK",
+        "data": 4001
     },
     "ETHERITE_PORTABLE_VAULT":
     {
