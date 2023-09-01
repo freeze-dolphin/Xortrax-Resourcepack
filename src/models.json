@@ -2023,8 +2023,8 @@
     },
     "ETHERITE_GENERIC_AMMO_BOX": {
         "id": "ammo_box",
-        "item": "primarine_shard",
+        "item": "golden_hoe",
         "template": "ITEM",
-        "data": 4206
+        "data": 4000
     }
 }
