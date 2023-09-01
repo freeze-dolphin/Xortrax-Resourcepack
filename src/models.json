@@ -1,2361 +1,2030 @@
 {
-    "ANDROID_MEMORY_CORE":
-    {
+    "ANDROID_MEMORY_CORE": {
         "id": "technical_components/android_memory_core",
         "item": "player_head",
         "template": "FLAT_BLOCK",
         "data": 4000
     },
-    "COPPER_WIRE":
-    {
+    "COPPER_WIRE": {
         "id": "technical_components/copper_wire",
         "item": "string",
         "template": "ITEM",
         "data": 4000
     },
-    "HARDENED_GLASS":
-    {
+    "HARDENED_GLASS": {
         "id": "technical_components/hardened_glass",
         "item": "light_gray_stained_glass",
         "template": "BLOCK",
         "data": 4000
     },
-    "PLASTIC_SHEET":
-    {
+    "PLASTIC_SHEET": {
         "id": "technical_components/plastic_sheet",
         "item": "paper",
         "template": "ITEM",
         "data": 4000
     },
-    "REINFORCED_CLOTH":
-    {
+    "REINFORCED_CLOTH": {
         "id": "technical_components/reinforced_cloth",
         "item": "paper",
         "template": "ITEM",
         "data": 4003
     },
-    "STEEL_THRUSTER":
-    {
+    "STEEL_THRUSTER": {
         "id": "technical_components/steel_thruster",
         "item": "bucket",
         "template": "ITEM",
         "data": 4000
     },
-    "WITHER_PROOF_GLASS":
-    {
+    "WITHER_PROOF_GLASS": {
         "id": "technical_components/wither_proof_glass",
         "item": "purple_stained_glass",
         "template": "BLOCK",
         "data": 4000
     },
-    "WITHER_PROOF_OBSIDIAN":
-    {
+    "WITHER_PROOF_OBSIDIAN": {
         "id": "technical_components/wither_proof_obsidian",
         "item": "obsidian",
         "template": "BLOCK",
         "data": 4000
     },
-    "ZINC_INGOT":
-    {
+    "ZINC_INGOT": {
         "id": "resources/zinc_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4000
     },
-    "SILVER_INGOT":
-    {
+    "SILVER_INGOT": {
         "id": "resources/silver_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4001
     },
-    "ALUMINUM_INGOT":
-    {
+    "ALUMINUM_INGOT": {
         "id": "resources/aluminum_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4002
     },
-    "LEAD_INGOT":
-    {
+    "LEAD_INGOT": {
         "id": "resources/lead_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4003
     },
-    "TIN_INGOT":
-    {
+    "TIN_INGOT": {
         "id": "resources/tin_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4004
     },
-    "COPPER_INGOT":
-    {
+    "COPPER_INGOT": {
         "id": "resources/copper_ingot",
         "item": "brick",
         "template": "ITEM",
         "data": 4000
     },
-    "NICKEL_INGOT":
-    {
+    "NICKEL_INGOT": {
         "id": "resources/nickel_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4005
     },
-    "COBALT_INGOT":
-    {
+    "COBALT_INGOT": {
         "id": "resources/cobalt_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4006
     },
-    "REDSTONE_ALLOY":
-    {
+    "REDSTONE_ALLOY": {
         "id": "resources/redstone_alloy_ingot",
         "item": "brick",
         "template": "ITEM",
         "data": 4001
     },
-    "FERROSILICON":
-    {
+    "FERROSILICON": {
         "id": "resources/ferrosilicon",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4007
     },
-    "GILDED_IRON":
-    {
+    "GILDED_IRON": {
         "id": "resources/gilded_iron_ingot",
         "item": "gold_ingot",
         "template": "ITEM",
         "data": 4000
     },
-    "SULFATE":
-    {
+    "SULFATE": {
         "id": "resources/sulfate",
         "item": "glowstone_dust",
         "template": "ITEM",
         "data": 4000
     },
-    "MAGNESIUM_INGOT":
-    {
+    "MAGNESIUM_INGOT": {
         "id": "resources/magnesium_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4008
     },
-    "SIFTED_ORE":
-    {
+    "SIFTED_ORE": {
         "id": "resources/sifted_ore",
         "item": "gunpowder",
         "template": "ITEM",
         "data": 4000
     },
-    "CLOTH":
-    {
+    "CLOTH": {
         "id": "resources/cloth",
         "item": "paper",
         "template": "ITEM",
         "data": 4001
     },
-    "DAMASCUS_STEEL_INGOT":
-    {
+    "DAMASCUS_STEEL_INGOT": {
         "id": "resources/damascus_steel_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4010
     },
-    "HARDENED_METAL_INGOT":
-    {
+    "HARDENED_METAL_INGOT": {
         "id": "resources/hardened_metal_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4011
     },
-    "BRONZE_INGOT":
-    {
+    "BRONZE_INGOT": {
         "id": "resources/bronze_ingot",
         "item": "brick",
         "template": "ITEM",
         "data": 4002
     },
-    "BRASS_INGOT":
-    {
+    "BRASS_INGOT": {
         "id": "resources/brass_ingot",
         "item": "gold_ingot",
         "template": "ITEM",
         "data": 4001
     },
-    "DURALUMIN_INGOT":
-    {
+    "DURALUMIN_INGOT": {
         "id": "resources/duralumin_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4012
     },
-    "BILLON_INGOT":
-    {
+    "BILLON_INGOT": {
         "id": "resources/billon_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4013
     },
-    "ALUMINUM_BRASS_INGOT":
-    {
+    "ALUMINUM_BRASS_INGOT": {
         "id": "resources/aluminum_brass_ingot",
         "item": "gold_ingot",
         "template": "ITEM",
         "data": 4002
     },
-    "BLISTERING_INGOT":
-    {
+    "BLISTERING_INGOT": {
         "id": "resources/irradianturanium",
         "item": "gold_ingot",
         "template": "ITEM",
         "data": 4003
     },
-    "BLISTERING_INGOT_2":
-    {
+    "BLISTERING_INGOT_2": {
         "id": "resources/irradianturanium",
         "item": "gold_ingot",
         "template": "ITEM",
         "data": 4004
     },
-    "BLISTERING_INGOT_3":
-    {
+    "BLISTERING_INGOT_3": {
         "id": "resources/irradianturanium",
         "item": "gold_ingot",
         "template": "ITEM",
         "data": 4005
     },
-    "CORINTHIAN_BRONZE_INGOT":
-    {
+    "CORINTHIAN_BRONZE_INGOT": {
         "id": "resources/corinthian_bronze_ingot",
         "item": "gold_ingot",
         "template": "ITEM",
         "data": 4006
     },
-    "ALUMINUM_BRONZE_INGOT":
-    {
+    "ALUMINUM_BRONZE_INGOT": {
         "id": "resources/aluminum_bronze_ingot",
         "item": "gold_ingot",
         "template": "ITEM",
         "data": 4007
     },
-    "REINFORCED_ALLOY_INGOT":
-    {
+    "REINFORCED_ALLOY_INGOT": {
         "id": "resources/reinforced_alloy_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4014
     },
-    "CRUSHED_ORE":
-    {
+    "CRUSHED_ORE": {
         "id": "resources/crushed_ore",
         "item": "gunpowder",
         "template": "ITEM",
         "data": 4004
     },
-    "PULVERIZED_ORE":
-    {
+    "PULVERIZED_ORE": {
         "id": "resources/pulverized_ore",
         "item": "gunpowder",
         "template": "ITEM",
         "data": 4005
     },
-    "PURE_ORE_CLUSTER":
-    {
+    "PURE_ORE_CLUSTER": {
         "id": "resources/pure_ore_cluster",
         "item": "gunpowder",
         "template": "ITEM",
         "data": 4006
     },
-    "STEEL_INGOT":
-    {
+    "STEEL_INGOT": {
         "id": "resources/steel_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4009
     },
-    "SOLDER_INGOT":
-    {
+    "SOLDER_INGOT": {
         "id": "resources/solder_ingot",
         "item": "iron_ingot",
         "template": "ITEM",
         "data": 4015
     },
-    "STEEL_PLATE":
-    {
+    "STEEL_PLATE": {
         "id": "resources/steel_plate",
         "item": "paper",
         "template": "ITEM",
         "data": 4002
     },
-    "SILICON":
-    {
+    "SILICON": {
         "id": "resources/silicon",
         "item": "firework_star",
         "template": "FIREWORK_STAR",
         "data": 4000
     },
-    "SYNTHETIC_DIAMOND":
-    {
+    "SYNTHETIC_DIAMOND": {
         "id": "resources/industrial_diamond",
         "item": "diamond",
         "template": "ITEM",
         "data": 4000
     },
-    "SYNTHETIC_EMERALD":
-    {
+    "SYNTHETIC_EMERALD": {
         "id": "resources/synthetic_emerald",
         "item": "emerald",
         "template": "ITEM",
         "data": 4011
     },
-    "IRON_DUST":
-    {
+    "IRON_DUST": {
         "id": "resources/iron_dust",
         "item": "gunpowder",
         "template": "ITEM",
         "data": 4002
     },
-    "LEAD_DUST":
-    {
+    "LEAD_DUST": {
         "id": "resources/lead_dust",
         "item": "gunpowder",
         "template": "ITEM",
         "data": 4003
     },
-    "GOLD_DUST":
-    {
+    "GOLD_DUST": {
         "id": "resources/gold_dust",
         "item": "glowstone_dust",
         "template": "ITEM",
         "data": 4001
     },
-    "COPPER_DUST":
-    {
+    "COPPER_DUST": {
         "id": "resources/copper_dust",
         "item": "glowstone_dust",
         "template": "ITEM",
         "data": 4002
     },
-    "SALT":
-    {
+    "SALT": {
         "id": "resources/salt",
         "item": "sugar",
         "template": "ITEM",
         "data": 4001
     },
-    "TIN_DUST":
-    {
+    "TIN_DUST": {
         "id": "resources/tin_dust",
         "item": "sugar",
         "template": "ITEM",
         "data": 4002
     },
-    "SILVER_DUST":
-    {
+    "SILVER_DUST": {
         "id": "resources/silver_dust",
         "item": "sugar",
         "template": "ITEM",
         "data": 4003
     },
-    "ALUMINUM_DUST":
-    {
+    "ALUMINUM_DUST": {
         "id": "resources/aluminum_dust",
         "item": "sugar",
         "template": "ITEM",
         "data": 4004
     },
-    "ZINC_DUST":
-    {
+    "ZINC_DUST": {
         "id": "resources/zinc_dust",
         "item": "sugar",
         "template": "ITEM",
         "data": 4005
     },
-    "MAGNESIUM_DUST":
-    {
+    "MAGNESIUM_DUST": {
         "id": "resources/magnesium_dust",
         "item": "sugar",
         "template": "ITEM",
         "data": 4006
     },
-    "SOLAR_PANEL":
-    {
+    "SOLAR_PANEL": {
         "id": "technical_components/solar_panel",
         "item": "daylight_detector",
         "template": "BLOCK",
         "data": 4000
     },
-    "SOLAR_ARRAY":
-    {
+    "SOLAR_ARRAY": {
         "id": "technical_components/solar_array",
         "item": "daylight_detector",
         "template": "BLOCK",
         "data": 4001
     },
-    "BATTERY":
-    {
+    "BATTERY": {
         "id": "technical_components/battery",
         "item": "player_head",
         "template": "SKULL",
         "data": 4001
     },
-    "CARGO_MOTOR":
-    {
+    "CARGO_MOTOR": {
         "id": "technical_components/cargo_motor",
         "item": "player_head",
         "template": "SKULL",
         "data": 4002
     },
-    "COOLING_UNIT":
-    {
+    "COOLING_UNIT": {
         "id": "technical_components/cooling_unit",
         "item": "player_head",
         "template": "SKULL",
         "data": 4003
     },
-    "ELECTRO_MAGNET":
-    {
+    "ELECTRO_MAGNET": {
         "id": "technical_components/electromagnet",
         "item": "player_head",
         "template": "SKULL",
         "data": 4004
     },
-    "HEATING_COIL":
-    {
+    "HEATING_COIL": {
         "id": "technical_components/heating_coil",
         "item": "player_head",
         "template": "SKULL",
         "data": 4005
     },
-    "MAGNET":
-    {
+    "MAGNET": {
         "id": "technical_components/magnet",
         "item": "player_head",
         "template": "SKULL",
         "data": 4006
     },
-    "NETHER_ICE_COOLANT_CELL":
-    {
+    "NETHER_ICE_COOLANT_CELL": {
         "id": "technical_components/nether_ice_coolant_cell",
         "item": "player_head",
         "template": "SKULL",
         "data": 4007
     },
-    "POWER_CRYSTAL":
-    {
+    "POWER_CRYSTAL": {
         "id": "technical_components/powered_crystal",
         "item": "player_head",
         "template": "SKULL",
         "data": 4008
     },
-    "REACTOR_COLLANT_CELL":
-    {
+    "REACTOR_COLLANT_CELL": {
         "id": "technical_components/reactor_coolant_cell",
         "item": "player_head",
         "template": "SKULL",
         "data": 4009
     },
-    "ELECTRIC_MOTOR":
-    {
+    "ELECTRIC_MOTOR": {
         "id": "technical_components/electric_motor",
         "item": "player_head",
         "template": "SKULL",
         "data": 4010
     },
-    "DUMO_NAK_COLLANT_CELL":
-    {
+    "DUMO_NAK_COLLANT_CELL": {
         "id": "nak_collant_cell",
         "item": "player_head",
         "template": "SKULL",
         "data": 4011
     },
-    "DUMO_SUPER_COLLANT_CELL":
-    {
+    "DUMO_SUPER_COLLANT_CELL": {
         "id": "super_collant_cell",
         "item": "player_head",
         "template": "SKULL",
         "data": 4012
     },
-    "CARBONADO":
-    {
+    "CARBONADO": {
         "id": "resources/carbonado",
         "item": "player_head",
         "template": "SKULL",
         "data": 4013
     },
-    "RAW_CARBONADO":
-    {
+    "RAW_CARBONADO": {
         "id": "resources/raw_carbonado",
         "item": "player_head",
         "template": "SKULL",
         "data": 4014
     },
-    "SYNTHETIC_SAPPHIRE":
-    {
+    "SYNTHETIC_SAPPHIRE": {
         "id": "resources/synthetic_sapphire",
         "item": "player_head",
         "template": "SKULL",
         "data": 4015
     },
-    "CARBON":
-    {
+    "CARBON": {
         "id": "resources/carbon",
         "item": "player_head",
         "template": "SKULL",
         "data": 4016
     },
-    "COMPRESSED_CARBON":
-    {
+    "COMPRESSED_CARBON": {
         "id": "resources/compressed_carbon",
         "item": "player_head",
         "template": "SKULL",
         "data": 4017
     },
-    "CARBON_CHUNK":
-    {
+    "CARBON_CHUNK": {
         "id": "resources/carbon_chunk",
         "item": "player_head",
         "template": "SKULL",
         "data": 4018
     },
-    "TINY_URANIUM":
-    {
+    "TINY_URANIUM": {
         "id": "resources/tiny_uranium",
         "item": "player_head",
         "template": "SKULL",
         "data": 4019
     },
-    "SMALL_URANIUM":
-    {
+    "SMALL_URANIUM": {
         "id": "resources/small_uranium",
         "item": "player_head",
         "template": "SKULL",
         "data": 4020
     },
-    "URANIUM":
-    {
+    "URANIUM": {
         "id": "resources/uranium",
         "item": "player_head",
         "template": "SKULL",
         "data": 4021
     },
-    "NEPTUNIUM":
-    {
+    "NEPTUNIUM": {
         "id": "resources/neptunium",
         "item": "player_head",
         "template": "SKULL",
         "data": 4022
     },
-    "PLUTONIUM":
-    {
+    "PLUTONIUM": {
         "id": "resources/plutonium",
         "item": "player_head",
         "template": "SKULL",
         "data": 4023
     },
-    "BOOSTED_URANIUM":
-    {
+    "BOOSTED_URANIUM": {
         "id": "resources/boosted_uranium",
         "item": "player_head",
         "template": "SKULL",
         "data": 4024
     },
-    "NIGHT_VISION_GOGGLES":
-    {
+    "NIGHT_VISION_GOGGLES": {
         "id": "technical_gadgets/nightvision_goggles",
         "item": "iron_helmet",
         "template": "ITEM",
         "data": 4000
     },
-    "DURALUMIN_JETPACK":
-    {
+    "DURALUMIN_JETPACK": {
         "id": "technical_gadgets/jetpack",
         "item": "iron_chestplate",
         "template": "ITEM",
         "data": 4000
     },
-    "SOLDER_JETPACK":
-    {
+    "SOLDER_JETPACK": {
         "id": "technical_gadgets/jetpack",
         "item": "iron_chestplate",
         "template": "ITEM",
         "data": 4001
     },
-    "BILLON_JETPACK":
-    {
+    "BILLON_JETPACK": {
         "id": "technical_gadgets/jetpack",
         "item": "iron_chestplate",
         "template": "ITEM",
         "data": 4002
     },
-    "STEEL_JETPACK":
-    {
+    "STEEL_JETPACK": {
         "id": "technical_gadgets/jetpack",
         "item": "iron_chestplate",
         "template": "ITEM",
         "data": 4003
     },
-    "DAMASCUS_STEEL_JETPACK":
-    {
+    "DAMASCUS_STEEL_JETPACK": {
         "id": "technical_gadgets/jetpack",
         "item": "iron_chestplate",
         "template": "ITEM",
         "data": 4004
     },
-    "REINFORCED_ALLOY_JETPACK":
-    {
+    "REINFORCED_ALLOY_JETPACK": {
         "id": "technical_gadgets/jetpack_electric",
         "item": "iron_chestplate",
         "template": "ITEM",
         "data": 4005
     },
-    "CARBONADO_JETPACK":
-    {
+    "CARBONADO_JETPACK": {
         "id": "technical_gadgets/jetpack_carbonado",
         "item": "iron_chestplate",
         "template": "ITEM",
         "data": 4006
     },
-    "ARMORED_JETPACK":
-    {
+    "ARMORED_JETPACK": {
         "id": "technical_gadgets/advancedjetpack",
         "item": "diamond_chestplate",
         "template": "ITEM",
         "data": 4000
     },
-    "DURALUMIN_JETBOOTS":
-    {
+    "DURALUMIN_JETBOOTS": {
         "id": "technical_gadgets/nano_boots",
         "item": "iron_boots",
         "template": "ITEM",
         "data": 4000
     },
-    "SOLDER_JETBOOTS":
-    {
+    "SOLDER_JETBOOTS": {
         "id": "technical_gadgets/nano_boots",
         "item": "iron_boots",
         "template": "ITEM",
         "data": 4001
     },
-    "BILLON_JETBOOTS":
-    {
+    "BILLON_JETBOOTS": {
         "id": "technical_gadgets/nano_boots",
         "item": "iron_boots",
         "template": "ITEM",
         "data": 4002
     },
-    "STEEL_JETBOOTS":
-    {
+    "STEEL_JETBOOTS": {
         "id": "technical_gadgets/supersolarpanels.itemarmorquantumboots_zelen",
         "item": "iron_boots",
         "template": "ITEM",
         "data": 4003
     },
-    "DAMASCUS_STEEL_JETBOOTS":
-    {
+    "DAMASCUS_STEEL_JETBOOTS": {
         "id": "technical_gadgets/supersolarpanels.itemarmorquantumboots_zelen",
         "item": "iron_boots",
         "template": "ITEM",
         "data": 4004
     },
-    "REINFORCED_ALLOY_JETBOOTS":
-    {
+    "REINFORCED_ALLOY_JETBOOTS": {
         "id": "technical_gadgets/itemarmornanoboots",
         "item": "iron_boots",
         "template": "ITEM",
         "data": 4005
     },
-    "CARBONADO_JETBOOTS":
-    {
+    "CARBONADO_JETBOOTS": {
         "id": "technical_gadgets/supersolarpanels.itemarmorquantumboots_taiga",
         "item": "iron_boots",
         "template": "ITEM",
         "data": 4006
     },
-    "ARMORED_JETBOOTS":
-    {
+    "ARMORED_JETBOOTS": {
         "id": "technical_gadgets/quantum_boots",
         "item": "diamond_boots",
         "template": "ITEM",
         "data": 4000
     },
-    "DURALUMIN_MULTI_TOOL":
-    {
+    "DURALUMIN_MULTI_TOOL": {
         "id": "technical_gadgets/duralumin_multi_tool",
         "item": "shears",
         "template": "ITEM",
         "data": 4000
     },
-    "SOLDER_MULTI_TOOL":
-    {
+    "SOLDER_MULTI_TOOL": {
         "id": "technical_gadgets/solder_multi_tool",
         "item": "shears",
         "template": "ITEM",
         "data": 4001
     },
-    "BILLON_MULTI_TOOL":
-    {
+    "BILLON_MULTI_TOOL": {
         "id": "technical_gadgets/billon_multi_tool",
         "item": "shears",
         "template": "ITEM",
         "data": 4002
     },
-    "STEEL_MULTI_TOOL":
-    {
+    "STEEL_MULTI_TOOL": {
         "id": "technical_gadgets/steel_multi_tool",
         "item": "shears",
         "template": "ITEM",
         "data": 4003
     },
-    "DAMASCUS_STEEL_MULTI_TOOL":
-    {
+    "DAMASCUS_STEEL_MULTI_TOOL": {
         "id": "technical_gadgets/damascus_steel_multi_tool",
         "item": "shears",
         "template": "ITEM",
         "data": 4004
     },
-    "REINFORCED_ALLOY_MULTI_TOOL":
-    {
+    "REINFORCED_ALLOY_MULTI_TOOL": {
         "id": "technical_gadgets/reinforced_alloy_multi_tool",
         "item": "shears",
         "template": "ITEM",
         "data": 4005
     },
-    "CARBONADO_MULTI_TOOL":
-    {
+    "CARBONADO_MULTI_TOOL": {
         "id": "technical_gadgets/carbonado_multi_tool",
         "item": "shears",
         "template": "ITEM",
         "data": 4006
     },
-    "SOLAR_HELMET":
-    {
+    "SOLAR_HELMET": {
         "id": "technical_gadgets/advsolarhelmet",
         "item": "iron_helmet",
         "template": "ITEM",
         "data": 4001
     },
-    "MULTIMETER":
-    {
+    "MULTIMETER": {
         "id": "technical_gadgets/meter",
         "item": "clock",
         "template": "CLOCK",
         "data": 4000
     },
-    "DUMO_DEPLETED_URANIUM":
-    {
+    "DUMO_DEPLETED_URANIUM": {
         "id": "depleted_uranium",
         "item": "player_head",
         "template": "SKULL",
         "data": 4025
     },
-    "DUMO_SMALL_PLUTONIUM":
-    {
+    "DUMO_SMALL_PLUTONIUM": {
         "id": "small_plutonium",
         "item": "player_head",
         "template": "SKULL",
         "data": 4026
     },
-    "DUMO_SMALL_RADIUM":
-    {
+    "DUMO_SMALL_RADIUM": {
         "id": "small_radium",
         "item": "player_head",
         "template": "SKULL",
         "data": 4027
     },
-    "DUMO_RADIUM":
-    {
+    "DUMO_RADIUM": {
         "id": "radium",
         "item": "player_head",
         "template": "SKULL",
         "data": 4028
     },
-    "DUMO_SOLARIZED_RADIUM":
-    {
+    "DUMO_SOLARIZED_RADIUM": {
         "id": "solarized_radium",
         "item": "player_head",
         "template": "SKULL",
         "data": 4029
     },
-    "DUMO_THORIUM":
-    {
+    "DUMO_THORIUM": {
         "id": "throium",
         "item": "player_head",
         "template": "SKULL",
         "data": 4030
     },
-    "DUMO_NUCLEAR_WASTE":
-    {
+    "DUMO_NUCLEAR_WASTE": {
         "id": "depleted_mox",
         "item": "player_head",
         "template": "SKULL",
         "data": 4031
     },
-    "DUMO_MOX_FUEL_ROD":
-    {
+    "DUMO_MOX_FUEL_ROD": {
         "id": "mox",
         "item": "player_head",
         "template": "SKULL",
         "data": 4032
     },
-    "_DUMO_UI_BACKGROUND":
-    {
+    "_DUMO_UI_BACKGROUND": {
         "id": "gui/background",
         "item": "gray_stained_glass_pane",
         "template": "GLASS_PANE",
         "data": 4000
     },
-    "_DUMO_UI_CODE":
-    {
+    "_DUMO_UI_CODE": {
         "id": "gui/code",
         "item": "gray_stained_glass_pane",
         "template": "GLASS_PANE",
         "data": 4001
     },
-    "_DUMO_UI_SOLAR_NORMAL_DAYTIME":
-    {
+    "_DUMO_UI_SOLAR_NORMAL_DAYTIME": {
         "id": "gui/solar_normal_daytime",
         "item": "gray_stained_glass_pane",
         "template": "GLASS_PANE",
         "data": 4002
     },
-    "_DUMO_UI_SOLAR_ADV_DAYTIME":
-    {
+    "_DUMO_UI_SOLAR_ADV_DAYTIME": {
         "id": "gui/solar_adv_daytime",
         "item": "gray_stained_glass_pane",
         "template": "GLASS_PANE",
         "data": 4003
     },
-    "_DUMO_UI_SOLAR_ADV_NIGHT":
-    {
+    "_DUMO_UI_SOLAR_ADV_NIGHT": {
         "id": "gui/solar_adv_night",
         "item": "gray_stained_glass_pane",
         "template": "GLASS_PANE",
         "data": 4004
     },
-    "_DUMO_UI_SOLAR_ULTIMATE_WORKING":
-    {
+    "_DUMO_UI_SOLAR_ULTIMATE_WORKING": {
         "id": "gui/solar_ultimate_working",
         "item": "gray_stained_glass_pane",
         "template": "GLASS_PANE",
         "data": 4005
     },
-    "_DUMO_UI_THERMAL_CENTRIFUGE_THERMAL_VAL_FULL":
-    {
+    "_DUMO_UI_THERMAL_CENTRIFUGE_THERMAL_VAL_FULL": {
         "id": "gui/thermal_centrifuge_thermal_val_full",
         "item": "gray_stained_glass_pane",
         "template": "GLASS_PANE",
         "data": 4006
     },
-    "_DUMO_UI_ASSEMBLY_GEAR":
-    {
+    "_DUMO_UI_ASSEMBLY_GEAR": {
         "id": "gui/asm_gear",
         "item": "gray_stained_glass_pane",
         "template": "GLASS_PANE",
         "data": 4007
     },
-    "_DUMO_UI_ARROW_LEFT":
-    {
+    "_DUMO_UI_ARROW_LEFT": {
         "id": "gui/arrow_left",
         "item": "gray_stained_glass_pane",
         "template": "GLASS_PANE",
         "data": 4008
     },
-    "_DUMO_UI_ARROW_RIGHT":
-    {
+    "_DUMO_UI_ARROW_RIGHT": {
         "id": "gui/arrow_right",
         "item": "gray_stained_glass_pane",
         "template": "GLASS_PANE",
         "data": 4009
     },
-    "_DUMO_UI_ARROW_LEFT_BOOK":
-    {
+    "_DUMO_UI_ARROW_LEFT_BOOK": {
         "id": "gui/arrow_left_book",
         "item": "gray_stained_glass_pane",
         "template": "GLASS_PANE",
         "data": 4010
     },
-    "_DUMO_UI_ARROW_RIGHT_BOOK":
-    {
+    "_DUMO_UI_ARROW_RIGHT_BOOK": {
         "id": "gui/arrow_right_book",
         "item": "gray_stained_glass_pane",
         "template": "GLASS_PANE",
         "data": 4011
     },
-    "DUMO_CIRCUIT_1":
-    {
+    "DUMO_CIRCUIT_1": {
         "id": "circuit_1",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4000
     },
-    "DUMO_CIRCUIT_2":
-    {
+    "DUMO_CIRCUIT_2": {
         "id": "circuit_2",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4001
     },
-    "DUMO_CIRCUIT_3":
-    {
+    "DUMO_CIRCUIT_3": {
         "id": "circuit_3",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4002
     },
-    "DUMO_CIRCUIT_4":
-    {
+    "DUMO_CIRCUIT_4": {
         "id": "circuit_4",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4003
     },
-    "DUMO_CIRCUIT_5":
-    {
+    "DUMO_CIRCUIT_5": {
         "id": "circuit_5",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4004
     },
-    "DUMO_CIRCUIT_6":
-    {
+    "DUMO_CIRCUIT_6": {
         "id": "circuit_6",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4005
     },
-    "BLUEPRINT":
-    {
+    "BLUEPRINT": {
         "id": "blueprint",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4006
     },
-    "DUMO_CAKE_SLICE":
-    {
+    "DUMO_CAKE_SLICE": {
         "id": "cake_slice",
         "item": "apple",
         "template": "ITEM",
         "data": 4000
     },
-    "DUMO_EXPERIMENT_115":
-    {
+    "DUMO_EXPERIMENT_115": {
         "id": "experiment_115",
         "item": "apple",
         "template": "ITEM",
         "data": 4001
     },
-    "DUMO_BASIC_CIRCUIT_BOARD":
-    {
+    "DUMO_BASIC_CIRCUIT_BOARD": {
         "id": "basic_circuit_board",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4007
     },
-    "DUMO_ADV_CIRCUIT_BOARD":
-    {
+    "DUMO_ADV_CIRCUIT_BOARD": {
         "id": "adv_circuit_board",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4008
     },
-    "DUMO_PROF_CIRCUIT_BOARD":
-    {
+    "DUMO_PROF_CIRCUIT_BOARD": {
         "id": "prof_circuit_board",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4009
     },
-    "DUMO_EXPE_CIRCUIT_BOARD":
-    {
+    "DUMO_EXPE_CIRCUIT_BOARD": {
         "id": "expe_circuit_board",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4010
     },
-    "DUMO_ULTI_CIRCUIT_BOARD":
-    {
+    "DUMO_ULTI_CIRCUIT_BOARD": {
         "id": "ulti_circuit_board",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4011
     },
-    "DUMO_WETWARE_PROCESSOR":
-    {
+    "DUMO_WETWARE_PROCESSOR": {
         "id": "wetware",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4012
     },
-    "DUMO_WETWARE_PROCESSOR_ASM":
-    {
+    "DUMO_WETWARE_PROCESSOR_ASM": {
         "id": "wetware_asm",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4013
     },
-    "DUMO_MICRO_PROCESSOR_1":
-    {
+    "DUMO_MICRO_PROCESSOR_1": {
         "id": "mp_1",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4014
     },
-    "DUMO_MICRO_PROCESSOR_2":
-    {
+    "DUMO_MICRO_PROCESSOR_2": {
         "id": "mp_2",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4015
     },
-    "DUMO_MICRO_PROCESSOR_3":
-    {
+    "DUMO_MICRO_PROCESSOR_3": {
         "id": "mp_3",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4016
     },
-    "DUMO_MICRO_PROCESSOR_4":
-    {
+    "DUMO_MICRO_PROCESSOR_4": {
         "id": "mp_4",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4017
     },
-    "DUMO_MICRO_PROCESSOR_5":
-    {
+    "DUMO_MICRO_PROCESSOR_5": {
         "id": "mp_5",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4018
     },
-    "DUMO_STEEL_GEAR":
-    {
+    "DUMO_STEEL_GEAR": {
         "id": "steel_gear",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4019
     },
-    "DUMO_COMPOSITE_STEEL_GEAR":
-    {
+    "DUMO_COMPOSITE_STEEL_GEAR": {
         "id": "composite_steel_gear",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4020
     },
-    "DUMO_BRASS_GEAR":
-    {
+    "DUMO_BRASS_GEAR": {
         "id": "brass_gear",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4021
     },
-    "DUMO_REINFORCED_STEEL_GEAR":
-    {
+    "DUMO_REINFORCED_STEEL_GEAR": {
         "id": "reinforced_steel_gear",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4022
     },
-    "DUMO_GOLD_PLATED_PLASTIC_GEAR":
-    {
+    "DUMO_GOLD_PLATED_PLASTIC_GEAR": {
         "id": "gold_plated_plastic_gear",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4023
     },
-    "DUMO_COMPOSITE_STEEL_PLATE":
-    {
+    "DUMO_COMPOSITE_STEEL_PLATE": {
         "id": "composite_steel_plate",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4024
     },
-    "DUMO_BOLT":
-    {
+    "DUMO_BOLT": {
         "id": "bolt",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4025
     },
-    "DUMO_INSULATING_BOLT":
-    {
+    "DUMO_INSULATING_BOLT": {
         "id": "insulating_bolt",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4026
     },
-    "DUMO_HYDRAULICS_DEVICE":
-    {
+    "DUMO_HYDRAULICS_DEVICE": {
         "id": "hydraulic_device",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4027
     },
-    "DUMO_STEEL_ROLLER":
-    {
+    "DUMO_STEEL_ROLLER": {
         "id": "steel_roller",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4028
     },
-    "DUMO_REINFORCED_STEEL_ROLLER":
-    {
+    "DUMO_REINFORCED_STEEL_ROLLER": {
         "id": "reinforced_steel_roller",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4029
     },
-    "DUMO_TRANSMISSION_BEARING":
-    {
+    "DUMO_TRANSMISSION_BEARING": {
         "id": "transmission_bearing",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4030
     },
-    "DUMO_PNEUMATIC_VALVE":
-    {
+    "DUMO_PNEUMATIC_VALVE": {
         "id": "pneumatic_valve",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4031
     },
-    "DUMO_DIAMOND_ABRASIVE":
-    {
+    "DUMO_DIAMOND_ABRASIVE": {
         "id": "diamond_abrasive",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4032
     },
-    "DUMO_CARBONADO_ABRASIVE":
-    {
+    "DUMO_CARBONADO_ABRASIVE": {
         "id": "carbonado_abrasive",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4033
     },
-    "DUMO_CRYSTAL_PRECISION_BEARING":
-    {
+    "DUMO_CRYSTAL_PRECISION_BEARING": {
         "id": "crystal_precision_bearing",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4034
     },
-    "DUMO_SAPPHIRE_PRECISION_BEARING":
-    {
+    "DUMO_SAPPHIRE_PRECISION_BEARING": {
         "id": "sapphire_precision_bearing",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4035
     },
-    "DUMO_EMERALD_PRECISION_BEARING":
-    {
+    "DUMO_EMERALD_PRECISION_BEARING": {
         "id": "emerald_precision_bearing",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4036
     },
-    "DUMO_SILVER_WIRE":
-    {
+    "DUMO_SILVER_WIRE": {
         "id": "silver_wire",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4037
     },
-    "DUMO_LEAD_ACID_BATTERIES":
-    {
+    "DUMO_LEAD_ACID_BATTERIES": {
         "id": "lead_acid_batteries",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4038
     },
-    "DUMO_COMPOSITE_LEAD_PLATE":
-    {
+    "DUMO_COMPOSITE_LEAD_PLATE": {
         "id": "composite_lead_plate",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4039
     },
-    "DUMO_ALUMINUM_CABLE":
-    {
+    "DUMO_ALUMINUM_CABLE": {
         "id": "aluminum_cable",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4040
     },
-    "DUMO_ALUMINUM_PIPE":
-    {
+    "DUMO_ALUMINUM_PIPE": {
         "id": "aluminum_pipe",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4041
     },
-    "DUMO_DURALUMIN_FRAME":
-    {
+    "DUMO_DURALUMIN_FRAME": {
         "id": "duralumin_frame",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4042
     },
-    "DUMO_MANGANESE_ZINC_CORE":
-    {
+    "DUMO_MANGANESE_ZINC_CORE": {
         "id": "manganese_zinc_ferrite_core",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4043
     },
-    "DUMO_MAGNESIUM_ALUMINIUM_ALLOY_FRAME":
-    {
+    "DUMO_MAGNESIUM_ALUMINIUM_ALLOY_FRAME": {
         "id": "magnesium_alumium_alloy_frame",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4044
     },
-    "DUMO_TIN_SOLDER":
-    {
+    "DUMO_TIN_SOLDER": {
         "id": "tin_solder",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4045
     },
-    "DUMO_BILLON_SOLDER":
-    {
+    "DUMO_BILLON_SOLDER": {
         "id": "billon_solder",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4046
     },
-    "DUMO_MAGNESIUM_ALUMINUM_ALLOY":
-    {
+    "DUMO_MAGNESIUM_ALUMINUM_ALLOY": {
         "id": "magnesium_aluminum_alloy",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4047
     },
-    "DUMO_ALLOY_BOOK":
-    {
+    "DUMO_ALLOY_BOOK": {
         "id": "alloy_book",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4048
     },
-    "DUMO_MAGIC_DIELECTRIC_CARBON_SILICON_CUBIC_CRYSTAL":
-    {
+    "DUMO_MAGIC_DIELECTRIC_CARBON_SILICON_CUBIC_CRYSTAL": {
         "id": "magic_dielectric_carbon_silicon_cubic_crystal",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4049
     },
-    "DUMO_SODIUM_INGOT":
-    {
+    "DUMO_SODIUM_INGOT": {
         "id": "sodium_ingot",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4050
     },
-    "DUMO_SODIUM_DUST":
-    {
+    "DUMO_SODIUM_DUST": {
         "id": "sodium_dust",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4051
     },
-    "DUMO_MANGANESE_INGOT":
-    {
+    "DUMO_MANGANESE_INGOT": {
         "id": "manganese_ingot",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4052
     },
-    "DUMO_MANGANESE_DUST":
-    {
+    "DUMO_MANGANESE_DUST": {
         "id": "manganese_dust",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4053
     },
-    "DUMO_CRYSTALLINE_SILICON":
-    {
+    "DUMO_CRYSTALLINE_SILICON": {
         "id": "crystalline_silicon",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4054
     },
-    "DUMO_ALLOY_BOOK_SIMPLE":
-    {
+    "DUMO_ALLOY_BOOK_SIMPLE": {
         "id": "alloy_book_simple",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4055
     },
-    "DUMO_SUPER_CONDUCTOR":
-    {
+    "DUMO_SUPER_CONDUCTOR": {
         "id": "superconductor",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4056
     },
-    "DUMO_HL_99":
-    {
+    "DUMO_HL_99": {
         "id": "hl_99",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4057
     },
-    "DUMO_SUPER_CONDUCTOR_WIRE":
-    {
+    "DUMO_SUPER_CONDUCTOR_WIRE": {
         "id": "superconducting_cable",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4058
     },
-    "DUMO_SUPER_CONDUCTOR_COVER":
-    {
+    "DUMO_SUPER_CONDUCTOR_COVER": {
         "id": "superconductorcover",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4059
     },
-    "DUMO_QIAN_THE_MIGHTY_BLADE":
-    {
+    "DUMO_QIAN_THE_MIGHTY_BLADE": {
         "id": "mdqr",
         "item": "prismarine_shard",
         "template": "CUSTOM",
         "data": 4060
     },
-    "DUMO_XIAOLONGUP":
-    {
+    "DUMO_XIAOLONGUP": {
         "id": "xiaolongup",
         "item": "prismarine_shard",
         "template": "CUSTOM",
         "data": 4061
     },
-    "DUMO_HOSHINO_WEAPON":
-    {
+    "DUMO_HOSHINO_WEAPON": {
         "id": "hoshino_weapon",
         "item": "prismarine_crystals",
         "template": "CUSTOM",
         "data": 4000
     },
-    "DUMO_HOSHINO_HALO":
-    {
+    "DUMO_HOSHINO_HALO": {
         "id": "hoshino_halo",
         "item": "prismarine_shard",
         "template": "CUSTOM",
         "data": 4062
     },
-    "DUMO_MIKA_HALO":
-    {
+    "DUMO_MIKA_HALO": {
         "id": "mika_halo",
         "item": "prismarine_shard",
         "template": "CUSTOM",
         "data": 4063
     },
-    "DUMO_ARIS_WEAPON":
-    {
+    "DUMO_ARIS_WEAPON": {
         "id": "supernova",
         "item": "prismarine_crystals",
         "template": "CUSTOM",
         "data": 4001
     },
-    "REDPRINT":
-    {
+    "REDPRINT": {
         "id": "redprint",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4064
     },
-    "GREENPRINT":
-    {
+    "GREENPRINT": {
         "id": "greenprint",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4065
     },
-    "ETHERITE_AMMO_12GINCENDIARYAMMO":
-    {
+    "ETHERITE_AMMO_12GINCENDIARYAMMO": {
         "id": "ammo/12gincendiaryammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4066
     },
-    "ETHERITE_AMMO_SIDEWINDER7AMMO":
-    {
+    "ETHERITE_AMMO_SIDEWINDER7AMMO": {
         "id": "ammo/sidewinder7ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4067
     },
-    "ETHERITE_AMMO_HESNIPERAMMO":
-    {
+    "ETHERITE_AMMO_HESNIPERAMMO": {
         "id": "ammo/hesniperammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4068
     },
-    "ETHERITE_AMMO_FAMASAMMO":
-    {
+    "ETHERITE_AMMO_FAMASAMMO": {
         "id": "ammo/famasammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4069
     },
-    "ETHERITE_AMMO_PR3OSCAMMO":
-    {
+    "ETHERITE_AMMO_PR3OSCAMMO": {
         "id": "ammo/pr3oscammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4070
     },
-    "ETHERITE_AMMO_PR3AMMO":
-    {
+    "ETHERITE_AMMO_PR3AMMO": {
         "id": "ammo/pr3ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4071
     },
-    "ETHERITE_AMMO_SPASAMMO":
-    {
+    "ETHERITE_AMMO_SPASAMMO": {
         "id": "ammo/spasammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4072
     },
-    "ETHERITE_AMMO_AN94AMMO":
-    {
+    "ETHERITE_AMMO_AN94AMMO": {
         "id": "ammo/an94ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4073
     },
-    "ETHERITE_AMMO_MP5AMMO":
-    {
+    "ETHERITE_AMMO_MP5AMMO": {
         "id": "ammo/mp5ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4074
     },
-    "ETHERITE_AMMO_Z20SIGNETAMMO":
-    {
+    "ETHERITE_AMMO_Z20SIGNETAMMO": {
         "id": "ammo/z20signetammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4075
     },
-    "ETHERITE_AMMO_M14AMMO":
-    {
+    "ETHERITE_AMMO_M14AMMO": {
         "id": "ammo/m14ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4076
     },
-    "ETHERITE_AMMO_BARRETTEXPLOSIVEAMMO":
-    {
+    "ETHERITE_AMMO_BARRETTEXPLOSIVEAMMO": {
         "id": "ammo/barrettexplosiveammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4077
     },
-    "ETHERITE_AMMO_ROCKETPOD57MMAMMO":
-    {
+    "ETHERITE_AMMO_ROCKETPOD57MMAMMO": {
         "id": "ammo/rocketpod57mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4078
     },
-    "ETHERITE_AMMO_BARRETTAMMO":
-    {
+    "ETHERITE_AMMO_BARRETTAMMO": {
         "id": "ammo/barrettammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4079
     },
-    "ETHERITE_AMMO_M1887AMMO":
-    {
+    "ETHERITE_AMMO_M1887AMMO": {
         "id": "ammo/m1887ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4080
     },
-    "ETHERITE_AMMO_M40A3AMMO":
-    {
+    "ETHERITE_AMMO_M40A3AMMO": {
         "id": "ammo/m40a3ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4081
     },
-    "ETHERITE_AMMO_12GBUCKSHOTAMMO":
-    {
+    "ETHERITE_AMMO_12GBUCKSHOTAMMO": {
         "id": "ammo/12gbuckshotammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4082
     },
-    "ETHERITE_AMMO_SKORPIONAMMO":
-    {
+    "ETHERITE_AMMO_SKORPIONAMMO": {
         "id": "ammo/skorpionammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4083
     },
-    "ETHERITE_AMMO_BIZONAMMO":
-    {
+    "ETHERITE_AMMO_BIZONAMMO": {
         "id": "ammo/bizonammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4084
     },
-    "ETHERITE_AMMO_SIGP226AMMO":
-    {
+    "ETHERITE_AMMO_SIGP226AMMO": {
         "id": "ammo/sigp226ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4085
     },
-    "ETHERITE_AMMO_FLAREGUNBLUEAMMO":
-    {
+    "ETHERITE_AMMO_FLAREGUNBLUEAMMO": {
         "id": "ammo/flaregunblueammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4086
     },
-    "ETHERITE_AMMO_SPLITTERCANNONREFRACTEDAMMO":
-    {
+    "ETHERITE_AMMO_SPLITTERCANNONREFRACTEDAMMO": {
         "id": "ammo/splittercannonrefractedammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4087
     },
-    "ETHERITE_AMMO_B4CROSSBOWAMMO":
-    {
+    "ETHERITE_AMMO_B4CROSSBOWAMMO": {
         "id": "ammo/b4crossbowammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4088
     },
-    "ETHERITE_AMMO_P90AMMO":
-    {
+    "ETHERITE_AMMO_P90AMMO": {
         "id": "ammo/p90ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4089
     },
-    "ETHERITE_AMMO_KCASMARTCARBINEAMMO":
-    {
+    "ETHERITE_AMMO_KCASMARTCARBINEAMMO": {
         "id": "ammo/kcasmartcarbineammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4090
     },
-    "ETHERITE_AMMO_SG550AMMO":
-    {
+    "ETHERITE_AMMO_SG550AMMO": {
         "id": "ammo/sg550ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4091
     },
-    "ETHERITE_AMMO_NTW20AMMO":
-    {
+    "ETHERITE_AMMO_NTW20AMMO": {
         "id": "ammo/ntw20ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4092
     },
-    "ETHERITE_AMMO_EMP4AMMO":
-    {
+    "ETHERITE_AMMO_EMP4AMMO": {
         "id": "ammo/emp4ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4093
     },
-    "ETHERITE_AMMO_AMA40MMSPOTLIGHTAMMO":
-    {
+    "ETHERITE_AMMO_AMA40MMSPOTLIGHTAMMO": {
         "id": "ammo/ama40mmspotlightammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4094
     },
-    "ETHERITE_AMMO_STINGERAMMO":
-    {
+    "ETHERITE_AMMO_STINGERAMMO": {
         "id": "ammo/stingerammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4095
     },
-    "ETHERITE_AMMO_MINIUZIAMMO":
-    {
+    "ETHERITE_AMMO_MINIUZIAMMO": {
         "id": "ammo/miniuziammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4096
     },
-    "ETHERITE_AMMO_M72LAWAMMO":
-    {
+    "ETHERITE_AMMO_M72LAWAMMO": {
         "id": "ammo/m72lawammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4097
     },
-    "ETHERITE_AMMO_HIGHEXPISTOLAMMO":
-    {
+    "ETHERITE_AMMO_HIGHEXPISTOLAMMO": {
         "id": "ammo/highexpistolammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4098
     },
-    "ETHERITE_AMMO_GAU19AMMO":
-    {
+    "ETHERITE_AMMO_GAU19AMMO": {
         "id": "ammo/gau19ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4099
     },
-    "ETHERITE_AMMO_BARRETTCOMPACTAMMO":
-    {
+    "ETHERITE_AMMO_BARRETTCOMPACTAMMO": {
         "id": "ammo/barrettcompactammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4100
     },
-    "ETHERITE_AMMO_R700AMMO":
-    {
+    "ETHERITE_AMMO_R700AMMO": {
         "id": "ammo/r700ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4101
     },
-    "ETHERITE_AMMO_Z10LIGHTRIFLEAMMO":
-    {
+    "ETHERITE_AMMO_Z10LIGHTRIFLEAMMO": {
         "id": "ammo/z10lightrifleammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4102
     },
-    "ETHERITE_AMMO_AK47AMMO":
-    {
+    "ETHERITE_AMMO_AK47AMMO": {
         "id": "ammo/ak47ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4103
     },
-    "ETHERITE_AMMO_TRIPLETAKEAMMO":
-    {
+    "ETHERITE_AMMO_TRIPLETAKEAMMO": {
         "id": "ammo/tripletakeammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4104
     },
-    "ETHERITE_AMMO_SEEKERRIFLEAMMO":
-    {
+    "ETHERITE_AMMO_SEEKERRIFLEAMMO": {
         "id": "ammo/seekerrifleammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4105
     },
-    "ETHERITE_AMMO_FNSCARAMMO":
-    {
+    "ETHERITE_AMMO_FNSCARAMMO": {
         "id": "ammo/fnscarammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4106
     },
-    "ETHERITE_AMMO_FLAREGUNBLACKAMMO":
-    {
+    "ETHERITE_AMMO_FLAREGUNBLACKAMMO": {
         "id": "ammo/flaregunblackammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4107
     },
-    "ETHERITE_AMMO_FLAREGUNGREENAMMO":
-    {
+    "ETHERITE_AMMO_FLAREGUNGREENAMMO": {
         "id": "ammo/flaregungreenammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4108
     },
-    "ETHERITE_AMMO_MINIGUNEXPLOSIVEAMMO":
-    {
+    "ETHERITE_AMMO_MINIGUNEXPLOSIVEAMMO": {
         "id": "ammo/minigunexplosiveammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4109
     },
-    "ETHERITE_AMMO_WITHERINGAKAMMO":
-    {
+    "ETHERITE_AMMO_WITHERINGAKAMMO": {
         "id": "ammo/witheringakammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4110
     },
-    "ETHERITE_AMMO_12GBIRDSHOTAMMO":
-    {
+    "ETHERITE_AMMO_12GBIRDSHOTAMMO": {
         "id": "ammo/12gbirdshotammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4111
     },
-    "ETHERITE_AMMO_L86AMMO":
-    {
+    "ETHERITE_AMMO_L86AMMO": {
         "id": "ammo/l86ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4112
     },
-    "ETHERITE_AMMO_G3AMMO":
-    {
+    "ETHERITE_AMMO_G3AMMO": {
         "id": "ammo/g3ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4113
     },
-    "ETHERITE_AMMO_ACRAMMO":
-    {
+    "ETHERITE_AMMO_ACRAMMO": {
         "id": "ammo/acrammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4114
     },
-    "ETHERITE_AMMO_AUGAMMO":
-    {
+    "ETHERITE_AMMO_AUGAMMO": {
         "id": "ammo/augammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4115
     },
-    "ETHERITE_AMMO_FLAMETHROWERAMMO":
-    {
+    "ETHERITE_AMMO_FLAMETHROWERAMMO": {
         "id": "ammo/flamethrowerammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4116
     },
-    "ETHERITE_AMMO_GAU24MMHEAMMO":
-    {
+    "ETHERITE_AMMO_GAU24MMHEAMMO": {
         "id": "ammo/gau24mmheammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4117
     },
-    "ETHERITE_AMMO_HYDRA70AMMO":
-    {
+    "ETHERITE_AMMO_HYDRA70AMMO": {
         "id": "ammo/hydra70ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4118
     },
-    "ETHERITE_AMMO_MTARAMMO":
-    {
+    "ETHERITE_AMMO_MTARAMMO": {
         "id": "ammo/mtarammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4119
     },
-    "ETHERITE_AMMO_STARSAMMO":
-    {
+    "ETHERITE_AMMO_STARSAMMO": {
         "id": "ammo/starsammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4120
     },
-    "ETHERITE_AMMO_FLAREGUNWHITEAMMO":
-    {
+    "ETHERITE_AMMO_FLAREGUNWHITEAMMO": {
         "id": "ammo/flaregunwhiteammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4121
     },
-    "ETHERITE_AMMO_ASH12AMMO":
-    {
+    "ETHERITE_AMMO_ASH12AMMO": {
         "id": "ammo/ash12ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4122
     },
-    "ETHERITE_AMMO_M1014AMMO":
-    {
+    "ETHERITE_AMMO_M1014AMMO": {
         "id": "ammo/m1014ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4123
     },
-    "ETHERITE_AMMO_AA12AMMO":
-    {
+    "ETHERITE_AMMO_AA12AMMO": {
         "id": "ammo/aa12ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4124
     },
-    "ETHERITE_AMMO_12GSLUGAMMO":
-    {
+    "ETHERITE_AMMO_12GSLUGAMMO": {
         "id": "ammo/12gslugammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4125
     },
-    "ETHERITE_AMMO_MINIGUNAMMO":
-    {
+    "ETHERITE_AMMO_MINIGUNAMMO": {
         "id": "ammo/minigunammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4126
     },
-    "ETHERITE_AMMO_GAU20MMARCAMMO":
-    {
+    "ETHERITE_AMMO_GAU20MMARCAMMO": {
         "id": "ammo/gau20mmarcammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4127
     },
-    "ETHERITE_AMMO_KRISSVECTORAMMO":
-    {
+    "ETHERITE_AMMO_KRISSVECTORAMMO": {
         "id": "ammo/krissvectorammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4128
     },
-    "ETHERITE_AMMO_R870AMMO":
-    {
+    "ETHERITE_AMMO_R870AMMO": {
         "id": "ammo/r870ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4129
     },
-    "ETHERITE_AMMO_ADAR15AMMO":
-    {
+    "ETHERITE_AMMO_ADAR15AMMO": {
         "id": "ammo/adar15ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4130
     },
-    "ETHERITE_AMMO_GAU30MMAMMO":
-    {
+    "ETHERITE_AMMO_GAU30MMAMMO": {
         "id": "ammo/gau30mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4131
     },
-    "ETHERITE_AMMO_FLAREGUNAMMO":
-    {
+    "ETHERITE_AMMO_FLAREGUNAMMO": {
         "id": "ammo/flaregunammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4132
     },
-    "ETHERITE_AMMO_STARSNCI3AMMO":
-    {
+    "ETHERITE_AMMO_STARSNCI3AMMO": {
         "id": "ammo/starsnci3ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4133
     },
-    "ETHERITE_AMMO_DESERTEAGLEAMMO":
-    {
+    "ETHERITE_AMMO_DESERTEAGLEAMMO": {
         "id": "ammo/deserteagleammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4134
     },
-    "ETHERITE_AMMO_MLRS6AMMO":
-    {
+    "ETHERITE_AMMO_MLRS6AMMO": {
         "id": "ammo/mlrs6ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4135
     },
-    "ETHERITE_AMMO_M60E4AMMO":
-    {
+    "ETHERITE_AMMO_M60E4AMMO": {
         "id": "ammo/m60e4ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4136
     },
-    "ETHERITE_AMMO_DRAGUNOVAMMO":
-    {
+    "ETHERITE_AMMO_DRAGUNOVAMMO": {
         "id": "ammo/dragunovammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4137
     },
-    "ETHERITE_AMMO_SHULKERSNIPERAMMO":
-    {
+    "ETHERITE_AMMO_SHULKERSNIPERAMMO": {
         "id": "ammo/shulkersniperammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4138
     },
-    "ETHERITE_AMMO_MWAMMOBAG":
-    {
+    "ETHERITE_AMMO_MWAMMOBAG": {
         "id": "ammo/mwammobag",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4139
     },
-    "ETHERITE_AMMO_AMA40MMAMMO":
-    {
+    "ETHERITE_AMMO_AMA40MMAMMO": {
         "id": "ammo/ama40mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4140
     },
-    "ETHERITE_AMMO_AT4AMMO":
-    {
+    "ETHERITE_AMMO_AT4AMMO": {
         "id": "ammo/at4ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4141
     },
-    "ETHERITE_AMMO_GAU30MMHEAMMO":
-    {
+    "ETHERITE_AMMO_GAU30MMHEAMMO": {
         "id": "ammo/gau30mmheammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4142
     },
-    "ETHERITE_AMMO_DEVOTIONX55AMMO":
-    {
+    "ETHERITE_AMMO_DEVOTIONX55AMMO": {
         "id": "ammo/devotionx55ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4143
     },
-    "ETHERITE_AMMO_KCASLUGGERAMMO":
-    {
+    "ETHERITE_AMMO_KCASLUGGERAMMO": {
         "id": "ammo/kcasluggerammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4144
     },
-    "ETHERITE_AMMO_12GHIGHEXPLOSIVEAMMO":
-    {
+    "ETHERITE_AMMO_12GHIGHEXPLOSIVEAMMO": {
         "id": "ammo/12ghighexplosiveammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4145
     },
-    "ETHERITE_AMMO_W1200AMMO":
-    {
+    "ETHERITE_AMMO_W1200AMMO": {
         "id": "ammo/w1200ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4146
     },
-    "ETHERITE_AMMO_M16A4AMMO":
-    {
+    "ETHERITE_AMMO_M16A4AMMO": {
         "id": "ammo/m16a4ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4147
     },
-    "ETHERITE_AMMO_M249AMMO":
-    {
+    "ETHERITE_AMMO_M249AMMO": {
         "id": "ammo/m249ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4148
     },
-    "ETHERITE_AMMO_GLOCKAMMO":
-    {
+    "ETHERITE_AMMO_GLOCKAMMO": {
         "id": "ammo/glockammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4149
     },
-    "ETHERITE_AMMO_HONEYBADGERAMMO":
-    {
+    "ETHERITE_AMMO_HONEYBADGERAMMO": {
         "id": "ammo/honeybadgerammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4150
     },
-    "ETHERITE_AMMO_RPGAMMO":
-    {
+    "ETHERITE_AMMO_RPGAMMO": {
         "id": "ammo/rpgammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4151
     },
-    "ETHERITE_AMMO_12GFLECHETTEAMMO":
-    {
+    "ETHERITE_AMMO_12GFLECHETTEAMMO": {
         "id": "ammo/12gflechetteammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4152
     },
-    "ETHERITE_AMMO_L96AMMO":
-    {
+    "ETHERITE_AMMO_L96AMMO": {
         "id": "ammo/l96ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4153
     },
-    "ETHERITE_AMMO_PREDATOR37MMSRAMMO":
-    {
+    "ETHERITE_AMMO_PREDATOR37MMSRAMMO": {
         "id": "ammo/predator37mmsrammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4154
     },
-    "ETHERITE_AMMO_GRENADELAUNCHERAMMO":
-    {
+    "ETHERITE_AMMO_GRENADELAUNCHERAMMO": {
         "id": "ammo/grenadelauncherammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4155
     },
-    "ETHERITE_AMMO_M21AMMO":
-    {
+    "ETHERITE_AMMO_M21AMMO": {
         "id": "ammo/m21ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4156
     },
-    "ETHERITE_AMMO_PAW20AMMO":
-    {
+    "ETHERITE_AMMO_PAW20AMMO": {
         "id": "ammo/paw20ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4157
     },
-    "ETHERITE_AMMO_12GPOISONEDFLECHETTEAMMO":
-    {
+    "ETHERITE_AMMO_12GPOISONEDFLECHETTEAMMO": {
         "id": "ammo/12gpoisonedflechetteammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4158
     },
-    "ETHERITE_AMMO_GRENADELAUNCHERINCENDIARYAMMO":
-    {
+    "ETHERITE_AMMO_GRENADELAUNCHERINCENDIARYAMMO": {
         "id": "ammo/grenadelauncherincendiaryammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4159
     },
-    "ETHERITE_AMMO_GRENADELAUNCHERBOUNCYAMMO":
-    {
+    "ETHERITE_AMMO_GRENADELAUNCHERBOUNCYAMMO": {
         "id": "ammo/grenadelauncherbouncyammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4160
     },
-    "ETHERITE_AMMO_GALILAMMO":
-    {
+    "ETHERITE_AMMO_GALILAMMO": {
         "id": "ammo/galilammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4161
     },
-    "ETHERITE_AMMO_RPKAMMO":
-    {
+    "ETHERITE_AMMO_RPKAMMO": {
         "id": "ammo/rpkammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4162
     },
-    "ETHERITE_AMMO_AU40MMHEAMMO":
-    {
+    "ETHERITE_AMMO_AU40MMHEAMMO": {
         "id": "ammo/au40mmheammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4163
     },
-    "ETHERITE_AMMO_HCARAMMO":
-    {
+    "ETHERITE_AMMO_HCARAMMO": {
         "id": "ammo/hcarammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4164
     },
-    "ETHERITE_AMMO_KCASMART50AMMO":
-    {
+    "ETHERITE_AMMO_KCASMART50AMMO": {
         "id": "ammo/kcasmart50ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4165
     },
-    "ETHERITE_AMMO_APCRRIFLEAMMO":
-    {
+    "ETHERITE_AMMO_APCRRIFLEAMMO": {
         "id": "ammo/apcrrifleammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4166
     },
-    "ETHERITE_AMMO_GAU20MMAMMO":
-    {
+    "ETHERITE_AMMO_GAU20MMAMMO": {
         "id": "ammo/gau20mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4167
     },
-    "ETHERITE_AMMO_W1200INCENDIARYAMMO":
-    {
+    "ETHERITE_AMMO_W1200INCENDIARYAMMO": {
         "id": "ammo/w1200incendiaryammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4168
     },
-    "ETHERITE_AMMO_USPPOISONAMMO":
-    {
+    "ETHERITE_AMMO_USPPOISONAMMO": {
         "id": "ammo/usppoisonammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4169
     },
-    "ETHERITE_AMMO_ROCKETPOD68MMAMMO":
-    {
+    "ETHERITE_AMMO_ROCKETPOD68MMAMMO": {
         "id": "ammo/rocketpod68mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4170
     },
-    "ETHERITE_AMMO_SNIPERAMMO":
-    {
+    "ETHERITE_AMMO_SNIPERAMMO": {
         "id": "ammo/sniperammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4171
     },
-    "ETHERITE_AMMO_PANZERFAUST3AMMO":
-    {
+    "ETHERITE_AMMO_PANZERFAUST3AMMO": {
         "id": "ammo/panzerfaust3ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4172
     },
-    "ETHERITE_AMMO_MINIGUNAMMOPORTABLE":
-    {
+    "ETHERITE_AMMO_MINIGUNAMMOPORTABLE": {
         "id": "ammo/minigunammoportable",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4173
     },
-    "ETHERITE_AMMO_BASICSALVOAMMO":
-    {
+    "ETHERITE_AMMO_BASICSALVOAMMO": {
         "id": "ammo/basicsalvoammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4174
     },
-    "ETHERITE_AMMO_COLDWARE2AMMO":
-    {
+    "ETHERITE_AMMO_COLDWARE2AMMO": {
         "id": "ammo/coldware2ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4175
     },
-    "ETHERITE_AMMO_GRENADELAUNCHERGASAMMO":
-    {
+    "ETHERITE_AMMO_GRENADELAUNCHERGASAMMO": {
         "id": "ammo/grenadelaunchergasammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4176
     },
-    "ETHERITE_AMMO_AU40MMAMMO":
-    {
+    "ETHERITE_AMMO_AU40MMAMMO": {
         "id": "ammo/au40mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4177
     },
-    "ETHERITE_AMMO_RPDAMMO":
-    {
+    "ETHERITE_AMMO_RPDAMMO": {
         "id": "ammo/rpdammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4178
     },
-    "ETHERITE_AMMO_G36AMMO":
-    {
+    "ETHERITE_AMMO_G36AMMO": {
         "id": "ammo/g36ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4179
     },
-    "ETHERITE_AMMO_Z45SENTINELAMMO":
-    {
+    "ETHERITE_AMMO_Z45SENTINELAMMO": {
         "id": "ammo/z45sentinelammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4180
     },
-    "ETHERITE_AMMO_AK74AMMO":
-    {
+    "ETHERITE_AMMO_AK74AMMO": {
         "id": "ammo/ak74ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4181
     },
-    "ETHERITE_AMMO_ADVANCEDSALVOAMMO":
-    {
+    "ETHERITE_AMMO_ADVANCEDSALVOAMMO": {
         "id": "ammo/advancedsalvoammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4182
     },
-    "ETHERITE_AMMO_KCASMARTPISTOLAMMO":
-    {
+    "ETHERITE_AMMO_KCASMARTPISTOLAMMO": {
         "id": "ammo/kcasmartpistolammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4183
     },
-    "ETHERITE_AMMO_A91AMMO":
-    {
+    "ETHERITE_AMMO_A91AMMO": {
         "id": "ammo/a91ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4184
     },
-    "ETHERITE_AMMO_SPLITTERCANNONAMMO":
-    {
+    "ETHERITE_AMMO_SPLITTERCANNONAMMO": {
         "id": "ammo/splittercannonammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4185
     },
-    "ETHERITE_AMMO_PREDATOR37MMAMMO":
-    {
+    "ETHERITE_AMMO_PREDATOR37MMAMMO": {
         "id": "ammo/predator37mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4186
     },
-    "ETHERITE_AMMO_PREDATOR37MMLRAMMO":
-    {
+    "ETHERITE_AMMO_PREDATOR37MMLRAMMO": {
         "id": "ammo/predator37mmlrammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4187
     },
-    "ETHERITE_AMMO_SMG100AMMO":
-    {
+    "ETHERITE_AMMO_SMG100AMMO": {
         "id": "ammo/smg100ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4188
     },
-    "ETHERITE_AMMO_GRENADELAUNCHERIMPACTAMMO":
-    {
+    "ETHERITE_AMMO_GRENADELAUNCHERIMPACTAMMO": {
         "id": "ammo/grenadelauncherimpactammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4189
     },
-    "ETHERITE_AMMO_VOLTV3AMMO":
-    {
+    "ETHERITE_AMMO_VOLTV3AMMO": {
         "id": "ammo/voltv3ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4190
     },
-    "ETHERITE_AMMO_JURYAMMO":
-    {
+    "ETHERITE_AMMO_JURYAMMO": {
         "id": "ammo/juryammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4191
     },
-    "ETHERITE_AMMO_STARSBURNINGRUBBERAMMO":
-    {
+    "ETHERITE_AMMO_STARSBURNINGRUBBERAMMO": {
         "id": "ammo/starsburningrubberammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4192
     },
-    "ETHERITE_AMMO_GAU20MMHVLEAMMO":
-    {
+    "ETHERITE_AMMO_GAU20MMHVLEAMMO": {
         "id": "ammo/gau20mmhvleammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4193
     },
-    "ETHERITE_AMMO_GAU24MMAMMO":
-    {
+    "ETHERITE_AMMO_GAU24MMAMMO": {
         "id": "ammo/gau24mmammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4194
     },
-    "ETHERITE_AMMO_KCASLUGGERKINETICAMMO":
-    {
+    "ETHERITE_AMMO_KCASLUGGERKINETICAMMO": {
         "id": "ammo/kcasluggerkineticammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4195
     },
-    "ETHERITE_AMMO_USPAMMO":
-    {
+    "ETHERITE_AMMO_USPAMMO": {
         "id": "ammo/uspammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4196
     },
-    "ETHERITE_AMMO_COLT45AMMO":
-    {
+    "ETHERITE_AMMO_COLT45AMMO": {
         "id": "ammo/colt45ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4197
     },
-    "ETHERITE_AMMO_M9AMMO":
-    {
+    "ETHERITE_AMMO_M9AMMO": {
         "id": "ammo/m9ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4198
     },
-    "ETHERITE_AMMO_Z16SPLICERRIFLEAMMO":
-    {
+    "ETHERITE_AMMO_Z16SPLICERRIFLEAMMO": {
         "id": "ammo/z16splicerrifleammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4199
     },
-    "ETHERITE_AMMO_MASTIFF1218AMMO":
-    {
+    "ETHERITE_AMMO_MASTIFF1218AMMO": {
         "id": "ammo/mastiff1218ammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4200
     },
-    "ETHERITE_AMMO_APPISTOLAMMO":
-    {
+    "ETHERITE_AMMO_APPISTOLAMMO": {
         "id": "ammo/appistolammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4201
     },
-    "ETHERITE_AMMO_Z15SPLICERAMMO":
-    {
+    "ETHERITE_AMMO_Z15SPLICERAMMO": {
         "id": "ammo/z15splicerammo",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4202
     },
-    "ETHERITE_ETHER_DUST":
-    {
+    "ETHERITE_ETHER_DUST": {
         "id": "ether_dust",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4203
     },
-    "ETHERITE_PAGER":
-    {
+    "ETHERITE_PAGER": {
         "id": "walkietalkie",
         "item": "clock",
         "template": "CLOCK",
         "data": 4001
     },
-    "ETHERITE_PORTABLE_VAULT":
-    {
+    "ETHERITE_PORTABLE_VAULT": {
         "id": "vault",
         "item": "prismarine_shard",
         "template": "ITEM",
         "data": 4205
+    },
+    "ETHERITE_GENERIC_AMMO_BOX": {
+        "id": "ammo_box",
+        "item": "primarine_shard",
+        "template": "ITEM",
+        "data": 4206
     }
 }
